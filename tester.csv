@@ -1,0 +1,1010 @@
+ep_operacion,ep_expediente,ep_tipo_exp,ep_estado,ep_ubicacion,ep_cliente,ep_descripcion,ep_ult_mod,ep_edad
+1,50041781,C1,N,5,704501,traslado por actualizacion de cambios en seguridad,56:08.6,28
+2,20037263,C1,N,5,280988,Crédito cancelado,20:18.0,87
+3,10254701,C1,N,5,264989,Expediente cancelado con bolsa de testimonio entregado al cliente,52:17.1,54
+4,10255729,C1,N,5,145769,Expediente  y  Testimonio original,40:31.3,47
+5,50014116,C2,N,22,480545,Creacion de etiqueta para expediente,46:11.7,27
+6,10303681,C1,N,5,116811,Expediente  y  Testimonio original,35:28.2,39
+8,114111,U,N,22,114111,Creacion de etiqueta para expediente,12:44.6,41
+10,100000,U,D,378,100000,Para resguardo,24:23.1,87
+11,1000000,U,N,22,1000000,Creacion de etiqueta para expediente,03:03.4,55
+12,106778,U,D,378,106778,Devolución en folder,01:00.2,40
+13,106804,U,D,378,106804,Devolución nueva estructura,38:37.2,38
+85,10275353,C1,N,5,144943,Expediente  y  Testimonio original,19:58.1,47
+86,10275822,C1,N,5,835234,Crédito cancelado,27:17.2,101
+87,10275913,C1,N,5,697923,traslado por actualizacion de cambios en seguridad,56:08.6,68
+88,10276034,C1,N,5,885168,Expediente  y  Testimonio original,19:57.9,58
+89,10276175,C1,N,5,478745,Expediente  y  Testimonio original,19:57.9,21
+91,10276682,C1,N,5,1026456,Expediente  y  Testimonio original,30:19.2,72
+92,10276694,C1,N,5,898115,Expediente  y  Testimonio original,19:57.8,68
+93,10276888,C1,N,5,357278,traslado por actualizacion de cambios en seguridad,56:08.7,98
+94,10277179,C1,N,5,1027139,Expediente  y  Testimonio original,14:56.7,51
+95,10277351,C1,N,5,1034495,Crédito cancelado,23:25.5,41
+101,1049168,U,D,378,1049168,Devolución nueva estructura,21:38.8,69
+103,899968,U,N,22,899968,Creacion de etiqueta para expediente,34:04.7,38
+105,872541,U,N,22,872541,Creacion de etiqueta para expediente,34:18.8,74
+225,20050954,C1,N,5,430111,Expediente cancelado con bolsa de testimonio entregado al cliente,09:58.3,76
+226,20051075,C1,N,5,285249,Expediente cancelado con bolsa de testimonio entregado al cliente,15:45.3,44
+227,20051178,C1,N,5,458570,Crédito cancelado,12:34.1,64
+228,20051312,C1,N,5,110154,Crédito cancelado,48:44.4,60
+230,20051697,C1,N,5,684310,Crédito cancelado,47:12.7,56
+232,90022260,C1,N,5,620667,traslado por actualizacion de cambios en seguridad,56:08.7,92
+233,90022791,C1,N,5,114035,Expediente  y  Testimonio original,12:40.3,47
+247,161812,U,D,378,161812,Para trasladar en  calidad prestamo,23:22.2,42
+249,228715,U,D,378,228715,Devolución nueva estructura,17:01.3,43
+250,111917,U,D,378,111917,Devolución nueva estructura,05:44.5,21
+253,620600,U,D,378,620600,Devolución nueva estructura,17:06.2,77
+261,120716,U,D,378,120716,Devolución nueva estructura,17:32.0,67
+290,10059784,C1,D,378,480438,Entrega,33:11.5,92
+291,10079186,C1,D,1,668446,EXPEDIENTE PARA ARCHIVAR,26:57.8,95
+292,10172135,C1,N,5,751132,traslado por actualizacion de cambios en seguridad,56:08.7,45
+293,10223207,C1,N,5,738268,traslado por actualizacion de cambios en seguridad,56:08.7,77
+295,10236242,C1,N,22,632745,Creacion de etiqueta para expediente,15:28.3,21
+297,20011269,C1,N,22,133934,Creacion de etiqueta para expediente,15:29.2,57
+506,10276216,C1,N,5,147607,Expediente  y  Testimonio original,19:57.9,45
+508,10276761,C1,N,5,1034023,Expediente  y  Testimonio original,14:56.7,76
+509,10277064,C1,N,5,1037788,"expediente con testimonio original para enviar a pergaminos
+",36:20.9,87
+510,10277076,C1,N,5,738534,Expediente  y  Testimonio original,19:57.8,85
+511,10277181,C1,N,5,699220,Expediente  y  Testimonio original,08:24.7,59
+512,10277210,C1,N,5,110978,Expediente  y  Testimonio original,19:57.8,40
+519,648881,U,D,378,648881,Devolución nueva estructura,33:18.1,84
+521,90021747,C1,N,5,747527,traslado por actualizacion de cambios en seguridad,56:08.7,65
+523,20061070,C1,N,5,837772,Crédito cancelado,47:12.7,25
+524,50022319,C1,N,5,100550,traslado por actualizacion de cambios en seguridad,56:08.7,48
+534,10107893,C1,N,5,357431,Crédito cancelado,32:26.4,96
+562,10258628,C1,N,5,635486,Expediente  y  Testimonio original,40:27.7,59
+563,20047012,C1,N,5,616090,traslado por actualizacion de cambios en seguridad,56:08.7,87
+564,10260425,C1,N,5,843958,Expediente  y  Testimonio original,19:59.7,99
+565,10274414,C1,N,5,502273,traslado por actualizacion de cambios en seguridad,56:08.7,97
+566,30003100,C1,N,5,634956,Crédito cancelado,26:34.6,61
+567,50138137,C1,N,5,1037445,Crédito cancelado,30:57.3,36
+568,50135094,C1,N,5,905100,Expediente cancelado con bolsa de testimonio entregado al cliente,41:36.3,85
+569,50132690,C1,N,5,479502,Crédito cancelado,48:56.5,91
+571,90027040,C1,N,5,133469,traslado por actualizacion de cambios en seguridad,56:08.7,82
+573,20023092,C1,N,5,117951,traslado por actualizacion de cambios en seguridad,56:08.8,51
+574,20061903,C1,N,5,653729,expedientes con bolsa cancelados-entregados,18:22.8,54
+575,20061977,C1,N,5,819284,Crédito cancelado,16:39.3,30
+576,10261912,C1,N,5,837542,Crédito cancelado,42:25.4,66
+577,10247100,C1,N,5,106587,"expediente con testimonio original para enviar a pergaminos
+",36:16.2,28
+578,10271072,C1,N,5,809126,expediente con bolsa de testimonio cancelado entregado,02:15.9,62
+587,209661,U,D,378,209661,Para resguardo,43:31.5,20
+617,20064802,C1,N,5,664702,Crédito cancelado,52:08.7,56
+619,90027935,C1,N,5,110815,traslado por actualizacion de cambios en seguridad,56:08.8,53
+620,90028020,C1,N,5,110481,Crédito cancelado,47:29.4,25
+621,10309582,C1,N,5,737101,Expediente  y  Testimonio original,10:58.4,51
+622,10310220,C1,N,5,687688,Expediente  y  Testimonio original,35:27.2,92
+628,129173,U,D,378,129173,Devolución nueva estructura,07:10.4,22
+639,20037067,C1,N,5,100282,Expediente  y  Testimonio original,30:18.5,54
+641,20029046,C1,N,5,693300,traslado por actualizacion de cambios en seguridad,56:08.8,90
+644,20067397,C1,N,5,639643,Crédito cancelado,28:56.1,44
+646,20062658,C1,N,5,876600,Crédito cancelado,47:12.9,43
+647,20036570,C1,N,5,104636,Crédito cancelado,22:45.8,87
+648,20044620,C1,N,5,779646,Expediente  y  Testimonio original,22:17.5,47
+650,829379,U,D,378,829379,Devolución nueva estructura,45:29.4,28
+653,10303007,C1,N,5,658872,Crédito cancelado,49:23.7,84
+654,10303930,C1,N,5,146806,traslado por actualizacion de cambios en seguridad,56:08.8,59
+759,90022545,C1,N,22,149152,Creacion de etiqueta para expediente,06:50.5,26
+760,10302687,C1,N,5,207847,traslado por actualizacion de cambios en seguridad,56:08.9,64
+769,249772,U,D,378,249772,Devolución nueva estructura,24:20.6,96
+993,30028426,C1,N,5,663282,Expediente cancelado con bolsa de testimonio entregado al cliente,04:09.4,92
+994,50137016,C1,N,22,1033851,Creacion de etiqueta para expediente,21:33.4,33
+995,30029315,C1,N,5,726635,Expedientes con bolsa concelado-entregado,25:38.3,48
+996,30028701,C1,N,5,794757,Expediente con bolsa de cancelado entregado para enviar a pergaminos,23:24.5,35
+997,50142786,C1,N,5,1035644,Expediente cancelado con bolsa de testimonio entregado al cliente,02:40.3,37
+998,50143170,C1,N,5,223605,Crédito cancelado,48:56.3,71
+999,50143431,C1,N,5,1047728,Crédito cancelado,31:01.8,25
+1438,10322948,C1,N,5,104646,Expediente  y  Testimonio original,09:16.2,39
+1538,50145049,C1,N,5,767863,Crédito cancelado,44:47.6,60
+1565,713579,U,D,378,713579,Devolución nueva estructura,25:44.0,47
+1568,128346,U,D,378,128346,Para resguardo,37:46.9,74
+1572,249604,U,D,378,249604,Devolución nueva estructura,24:20.6,43
+1595,90008459,C1,N,5,248364,Expediente  y  Testimonio original,12:39.9,44
+1596,90014160,C1,N,5,604927,traslado por actualizacion de cambios en seguridad,56:08.9,36
+1597,90021307,C1,N,5,839276,traslado por actualizacion de cambios en seguridad,56:08.9,90
+1598,90028783,C1,N,5,605971,traslado por actualizacion de cambios en seguridad,56:08.9,34
+1603,298711,U,D,378,298711,Devolución nueva estructura,18:12.5,71
+1604,811356,U,D,378,811356,Resguardo nueva estructura,22:58.8,64
+1607,1069443,U,D,378,1069443,Devolución nueva estructura,03:46.8,83
+1608,10227057,C1,N,5,633519,Expediente  y  Testimonio original,20:33.2,83
+1609,10259608,C1,N,5,124162,traslado por actualizacion de cambios en seguridad,56:08.9,45
+1611,10275195,C1,N,5,674991,Crédito cancelado,46:38.9,18
+1651,50146005,C1,N,5,1034333,Expediente cancelado con bolsa de testimonio entregado al cliente,33:58.2,21
+1652,50144980,C1,N,5,701558,Crédito cancelado,41:25.6,34
+1653,30029808,C1,N,5,271408,Expediente cancelado con bolsa de testimonio entregado al cliente,52:50.0,22
+1654,50145104,C1,N,5,1049845,Expediente  y  Testimonio original,23:18.5,72
+1659,607848,U,D,378,607848,Devolución nueva estructura,39:17.2,89
+1679,30028347,C1,N,5,632408,Crédito cancelado,41:47.6,41
+1680,30029195,C1,N,5,724875,Expediente cancelado con bolsa de testimonio entregado al cliente,52:49.9,78
+1709,711710,U,D,378,711710,Devolución nueva estructura,05:42.4,73
+1710,828247,U,D,378,828247,Devolución nueva estructura,55:17.9,56
+1713,10041854,C1,D,1,120217,Creacion de etiqueta para expediente,28:45.4,20
+1714,10041880,C1,N,22,120217,Creacion de etiqueta para expediente,28:46.3,20
+1715,10321126,C1,N,5,744224,Expediente  y  Testimonio original,35:24.1,28
+1716,10321504,C1,N,5,116229,Expediente  y  Testimonio original,35:24.3,85
+1717,10320512,C1,N,5,1017704,Expediente  y  Testimonio original,10:58.5,52
+1763,10238317,C1,N,5,237705,Crédito cancelado,32:27.7,59
+2939,10319202,C1,N,5,824386,Expediente  y  Testimonio original,35:23.6,56
+2940,10319214,C1,N,5,106280,traslado por actualizacion de cambios en seguridad,56:08.9,64
+2958,738865,U,D,378,738865,Devolución nueva estructura,23:46.9,90
+2967,90028616,C1,N,5,139216,Expediente  y  Testimonio original,23:20.6,25
+2968,90028692,C1,N,5,716522,Expediente  y  Testimonio original,23:20.6,46
+2969,90031132,C1,N,5,287840,Expediente  y  Testimonio original,23:21.3,42
+2971,10260724,C1,N,5,123241,Crédito cancelado,39:00.2,91
+2973,20041331,C1,N,5,148478,Crédito cancelado,02:50.3,75
+3066,10261900,C1,N,5,101015,Crédito cancelado,12:31.2,65
+3155,20063133,C1,N,5,856888,Crédito cancelado,03:06.2,51
+3183,10051172,C1,N,5,634217,traslado por actualizacion de cambios en seguridad,56:08.9,51
+3184,10213513,C1,N,5,674991,Crédito cancelado,17:40.4,50
+3185,10224782,C1,N,5,766743,"expediente con testimonio original para enviar a pergaminos
+",25:46.7,81
+3186,20009886,C2,N,5,123280,traslado por actualizacion de cambios en seguridad,56:08.9,99
+3187,20011283,C1,N,5,131440,traslado por actualizacion de cambios en seguridad,56:08.9,40
+3238,10325031,C1,N,5,740393,Expediente  y  Testimonio original,35:25.0,99
+3240,10325110,C1,N,5,100114,Expediente  y  Testimonio original,35:25.1,84
+3263,205641,U,N,22,205641,Creacion de etiqueta para expediente,11:36.2,47
+3264,892251,U,D,378,892251,Devolución nueva estructura,51:54.0,40
+3323,10277442,C1,N,5,625084,Crédito cancelado,35:45.9,51
+3350,90024610,C1,N,5,865900,traslado por actualizacion de cambios en seguridad,56:08.9,49
+3351,90026058,C1,N,22,835823,Creacion de etiqueta para expediente,37:43.9,82
+3352,90026292,C1,N,5,865900,traslado por actualizacion de cambios en seguridad,56:09.0,91
+3353,90026450,C1,N,5,424911,traslado por actualizacion de cambios en seguridad,56:09.0,20
+3354,90026462,C1,N,22,816494,Creacion de etiqueta para expediente,37:47.1,36
+3355,90026515,C1,N,5,122223,Expediente  y  Testimonio original,40:45.5,76
+3357,90026589,C1,N,22,132555,Creacion de etiqueta para expediente,37:50.1,96
+3358,20016661,C1,N,5,640315,expediente con bolsa cancelada entregada para enviar a pergaminos,19:36.9,31
+3375,675333,U,D,378,675333,Devolución en folder,51:40.5,92
+3515,20049967,C1,N,5,365574,Crédito cancelado,54:52.1,92
+3517,20061252,C1,N,5,609300,Crédito cancelado,56:26.8,56
+3521,30017128,C1,N,5,853818,traslado por actualizacion de cambios en seguridad,56:09.0,42
+3522,50113022,C1,N,5,847861,Expedientes con bolsa concelado-entregado,39:05.0,75
+3524,50123558,C1,N,5,852472,Expediente  y  Testimonio original,37:18.2,38
+3732,10276345,C10,N,5,120159,"expediente con testimonio original para enviar a pergaminos
+",36:19.3,43
+3733,10276620,C1,N,5,744264,traslado por actualizacion de cambios en seguridad,56:09.0,18
+3788,90028202,C1,N,5,127648,traslado por actualizacion de cambios en seguridad,56:09.0,89
+3789,90030578,C1,N,5,131891,Expedientes con bolsa concelado-entregado,52:38.8,31
+3790,90030580,C1,N,5,763573,traslado por actualizacion de cambios en seguridad,56:09.0,27
+3791,90030592,C1,N,5,797503,traslado por actualizacion de cambios en seguridad,56:09.0,65
+3792,90030633,C1,N,5,137144,traslado por actualizacion de cambios en seguridad,56:09.1,26
+3793,90030700,C1,N,5,832992,traslado por actualizacion de cambios en seguridad,56:09.1,22
+3794,90030712,C1,N,5,766538,traslado por actualizacion de cambios en seguridad,56:09.1,37
+3799,228220,U,D,378,228220,Devolución nueva estructura,59:59.0,41
+3844,90030097,C1,N,22,507264,Creacion de etiqueta para expediente,31:35.1,71
+3851,802735,U,D,378,802735,Devolución nueva estructura,56:22.9,82
+3900,50120805,C1,N,5,106507,Crédito cancelado,39:41.2,67
+3917,235225,U,D,378,235225,Devolución nueva estructura,17:01.2,26
+3977,1058664,U,D,378,1058664,Devolución nueva estructura,50:20.1,97
+4096,10245994,C1,N,5,285249,"expediente con testimonio original para enviar a pergaminos
+",36:16.1,84
+4120,1020262,U,D,378,1020262,Devolución nueva estructura,48:12.3,20
+4152,50149667,C1,N,5,143821,Crédito cancelado,33:33.9,32
+4153,50149710,C1,N,5,111339,Expediente  y  Testimonio original,47:37.4,37
+4155,50150214,C1,N,5,1062637,Expediente  y  Testimonio original,01:07.5,38
+4156,50150771,C1,N,5,1070679,Crédito cancelado,19:18.0,48
+4157,50151749,C1,N,5,144007,Crédito cancelado,16:46.3,25
+4158,50151763,C1,N,5,697318,Crédito cancelado,19:17.9,84
+4176,10218628,C1,N,5,279838,traslado por actualizacion de cambios en seguridad,56:09.2,49
+4178,10314006,C1,N,5,1056670,Expediente  y  Testimonio original,35:25.4,53
+4179,10314630,C1,N,5,1053288,Expediente  y  Testimonio original,35:25.6,62
+4236,50134870,C1,N,5,1027751,Expediente cancelado con bolsa de testimonio entregado al cliente,24:28.3,85
+4237,50134911,C1,N,5,768174,Crédito cancelado,55:48.9,95
+4238,50135173,C1,D,377,480411,Entrega,26:39.1,45
+4240,50136098,C1,N,5,116816,Crédito cancelado,54:24.1,27
+4243,50137298,C1,N,5,228784,Crédito cancelado,54:23.7,56
+4244,50137353,C1,N,5,1032678,Expediente con bolsa de cancelado entregado para enviar a pergaminos,58:46.2,32
+4246,50137793,C1,N,5,1033361,Crédito cancelado,44:04.6,19
+4247,50137872,C1,N,5,1036069,Expediente cancelado con bolsa de testimonio entregado al cliente,02:40.4,35
+4248,50141433,C1,N,5,739867,Expediente cancelado con bolsa de testimonio entregado al cliente,41:58.3,30
+4657,50131892,C1,N,5,896728,traslado por actualizacion de cambios en seguridad,56:11.3,56
+4658,20014792,C1,N,5,130016,Crédito cancelado,14:26.9,22
+4659,50129502,C1,N,5,775746,Expedientes con bolsa concelado-entregado,46:48.8,20
+4660,50129887,C1,N,5,834060,Crédito cancelado,10:39.7,36
+4661,50130240,C1,N,5,190690,Crédito cancelado,10:39.8,21
+4662,50131854,C1,N,22,890803,Creacion de etiqueta para expediente,22:16.6,41
+4887,50127906,C7,D,378,676119,Entrega,31:42.0,52
+4889,30022070,C7,D,378,111920,Entrega,31:42.0,67
+4890,50127918,C7,D,378,165127,Entrega,31:42.0,19
+4891,30022082,C7,D,378,280452,Entrega,31:42.1,49
+4892,30022094,C7,D,378,152826,Entrega,33:44.3,53
+4893,30022111,C7,D,378,614903,Entrega,33:44.4,35
+4894,30022123,C7,D,378,614903,Entrega,33:44.4,83
+4896,30022135,C7,N,22,672796,Creacion de etiqueta para expediente,07:43.1,62
+4898,30022159,C7,D,378,152826,Entrega,33:44.4,58
+4899,30022161,C7,D,378,152826,Entrega,33:44.4,63
+4900,30022173,C7,D,378,660097,Entrega,33:44.4,40
+4923,101333,U,D,378,101333,Devolución 1 Leitz,10:05.1,68
+4924,101640,U,D,378,101640,Resguardo nueva estructura,37:11.9,33
+4949,109622,U,D,378,109622,Devolución 1 Leitz,11:18.0,57
+4951,110119,U,D,378,110119,Devolución nueva estructura,05:44.5,68
+4973,116480,U,D,378,116480,Devolución nueva estructura,27:23.9,39
+4978,116786,U,D,378,116786,Devolución nueva estructura,05:44.5,32
+4983,116807,U,D,378,116807,Para resguardo,52:29.5,60
+5010,120733,U,D,378,120733,Devolución nueva estructura,20:47.2,88
+5031,121623,U,D,378,121623,Devolución nueva estructura,19:30.5,18
+5034,121675,U,D,378,121675,Devolución nueva estructura,19:30.5,26
+5036,122503,U,D,378,122503,Devolución nueva estructura,21:34.9,23
+5061,129908,U,D,378,129908,Devolución nueva estructura,07:10.5,46
+5067,130300,U,D,378,130300,Devolución en folder,41:34.8,27
+5089,132218,U,D,378,132218,Devolución nueva estructura,34:41.3,55
+5092,132224,U,D,378,132224,Devolución nueva estructura,52:25.4,28
+5121,141468,U,D,378,141468,Devolución en folder,01:22.6,69
+5148,143615,U,D,378,143615,Devolución nueva estructura,00:09.5,96
+5149,143623,U,D,378,143623,Devolución 1 Leitz,54:00.4,29
+5154,146655,U,D,378,146655,Devolución nueva estructura,35:12.7,48
+5156,149778,U,D,378,149778,Resguardo nueva estructura,48:58.9,55
+5157,149783,U,D,378,149783,Devolución nueva estructura,34:41.1,19
+5177,152601,U,D,378,152601,Resguardo nueva estructura,42:29.9,91
+5179,152605,U,D,378,152605,Devolución en folder,09:45.2,70
+5180,152614,U,D,378,152614,Devolución nueva estructura,33:53.8,93
+5182,153494,U,D,378,153494,Devolución nueva estructura,43:22.6,40
+5185,153964,U,D,378,153964,Devolución nueva estructura,44:40.0,29
+5205,170332,U,D,378,170332,Devolución nueva estructura,18:18.9,84
+5215,190524,U,D,378,190524,Devolución nueva estructura,43:22.7,54
+5234,218450,U,D,378,218450,Devolución 1 Leitz,20:53.7,18
+5237,221585,U,D,378,221585,Devolución nueva estructura,50:26.0,75
+5243,228380,U,D,378,228380,Devolución nueva estructura,47:08.6,96
+5266,260780,U,D,378,260780,Devolución nueva estructura,45:10.2,39
+5292,274611,U,D,378,274611,Devolución nueva estructura,35:43.1,41
+5296,276955,U,D,378,276955,Devolución nueva estructura,35:43.2,83
+5323,287910,U,D,378,287910,Devolución nueva estructura,25:57.5,25
+5325,288232,U,D,378,288232,Devolución nueva estructura,25:57.4,53
+5328,288321,U,D,378,288321,Devolución nueva estructura,25:57.4,40
+5329,288322,U,D,378,288322,Devolución nueva estructura,25:57.6,26
+5357,292937,U,D,378,292937,Devolución nueva estructura,31:07.4,50
+5360,294848,U,D,378,294848,Devolución nueva estructura,35:43.3,30
+5379,301041,U,D,378,301041,Devolución nueva estructura,37:09.7,95
+5385,301545,U,D,378,301545,Devolución nueva estructura,54:38.3,59
+5386,301615,U,D,378,301615,Devolución nueva estructura,54:38.4,78
+5411,478694,U,D,378,478694,Devolución nueva estructura,54:38.7,96
+5412,478732,U,D,378,478732,Devolución nueva estructura,18:12.1,57
+5416,478795,U,D,378,478795,Devolución nueva estructura,46:20.4,36
+5444,503086,U,D,378,503086,Devolución nueva estructura,37:10.1,53
+5467,609213,U,D,378,609213,Devolución nueva estructura,39:17.2,92
+5473,611110,U,D,378,611110,Devolución nueva estructura,38:12.3,20
+5495,618903,U,D,378,618903,Devolución en folder,54:29.3,25
+5498,619821,U,D,378,619821,Devolución nueva estructura,15:01.6,34
+5505,621032,U,D,378,621032,Devolución nueva estructura,36:19.0,94
+5526,627756,U,D,378,627756,Devolución nueva estructura,30:34.8,82
+5527,627763,U,D,378,627763,Devolución nueva estructura,30:34.9,88
+5530,628176,U,D,378,628176,Devolución nueva estructura,15:01.6,94
+5534,628895,U,D,378,628895,Devolución nueva estructura,17:07.1,100
+5558,633691,U,D,378,633691,Devolución nueva estructura,17:07.1,80
+5559,634217,U,D,378,634217,Resguardo nueva estructura,48:58.9,77
+5586,639567,U,D,378,639567,Devolución nueva estructura,17:06.8,78
+5591,640357,U,D,378,640357,Devolución nueva estructura,18:21.8,74
+5611,647610,U,D,378,647610,Para resguardo,36:18.9,22
+5612,647759,sf,D,378,647759,Para resguardo,36:18.9,66
+5614,648231,U,D,378,648231,Para resguardo,44:43.9,68
+5615,648616,U,D,378,648616,Devolución nueva estructura,33:18.0,38
+5618,649218,U,D,378,649218,Para resguardo,32:59.4,57
+5641,657030,U,D,378,657030,Para resguardo,00:08.6,99
+5644,658486,U,D,378,658486,Devolución nueva estructura,55:26.9,56
+6117,10316597,C1,N,5,130048,Expediente  y  Testimonio original,46:01.5,77
+6118,20031805,C1,N,5,104518,traslado por actualizacion de cambios en seguridad,56:13.5,37
+6121,680356,U,D,378,680356,Devolución en folder,23:16.1,21
+6124,1020413,U,D,378,1020413,Devolución nueva estructura,48:12.1,39
+6128,CL002195,C6,N,5,123080,Para enviar a Pergaminos expediente en bolsa de cancelado,44:09.8,52
+6129,PL003477,C6,N,5,848808,Para enviar a pergaminos expediente con bolsa de cancelado,47:36.5,19
+6132,CL002231,C6,N,5,719250,Para enviar a pergaminos expediente con bolsa de cancelado,42:51.2,100
+6424,10270597,C1,N,5,731638,"expediente con testimonio original para enviar a pergaminos
+",36:16.6,42
+6425,10275171,C1,N,5,111917,traslado por actualizacion de cambios en seguridad,56:13.7,23
+6426,10302637,C1,N,5,680283,Expediente  y  Testimonio original,30:18.4,43
+6427,20043042,C1,N,22,222065,Creacion de etiqueta para expediente,00:58.9,56
+6432,116816,U,D,378,116816,Devolución nueva estructura,20:46.9,99
+6438,1012155,U,D,378,1012155,Devolución nueva estructura,45:55.9,64
+6621,90026400,C1,N,5,839247,traslado por actualizacion de cambios en seguridad,56:13.9,27
+6622,90026541,C1,N,1000,900946,Expediente  y  Testimonio original,39:45.2,88
+6640,143054,U,D,378,143054,Devolución 1 Leitz,34:59.3,75
+6641,143059,U,N,22,143059,Creacion de etiqueta para expediente,53:30.9,68
+6844,10233721,C1,N,5,847050,Expediente  y  Testimonio original,26:25.8,99
+6845,10234945,C1,N,5,112274,traslado por actualizacion de cambios en seguridad,56:14.1,19
+6846,10236113,C1,N,5,617818,Expediente  y  Testimonio original,50:34.4,57
+6847,10236319,C1,N,5,757770,Crédito cancelado,08:53.2,71
+6848,10236321,C1,N,5,772675,Expediente  y  Testimonio original,50:34.4,63
+6849,10236448,C1,N,5,851035,Expediente  y  Testimonio original,50:34.5,99
+6850,10236486,C1,N,5,864681,Expediente  y  Testimonio original,50:34.5,58
+6851,10236498,C1,N,5,123376,Expediente con bolsa cancelado-entregado,47:09.1,98
+6852,10236503,C1,N,5,123376,Expediente con bolsa cancelado-entregado,47:10.3,72
+6853,10236515,C1,N,5,818204,traslado por actualizacion de cambios en seguridad,56:14.1,72
+6856,10237014,C1,N,5,142697,traslado por actualizacion de cambios en seguridad,56:14.2,87
+6857,10237026,C1,N,5,125346,traslado por actualizacion de cambios en seguridad,56:14.2,47
+6858,10237038,C1,N,5,702969,traslado por actualizacion de cambios en seguridad,56:14.2,68
+6859,10237131,C1,N,5,620922,Crédito cancelado,27:16.4,23
+7431,10276591,C1,N,5,1035837,Crédito cancelado,23:25.5,69
+7546,129718,U,D,378,129718,Devolución 1 Leitz,34:59.4,92
+7559,647143,U,D,378,647143,Devolución nueva estructura,29:48.5,41
+7561,667958,U,D,378,667958,Devolución en folder,56:31.3,37
+7564,898761,U,D,378,898761,Devolución nueva estructura,57:40.6,50
+7572,50152717,C1,N,5,842304,Expediente  y  Testimonio original,34:52.6,72
+7573,20024852,C1,N,5,501049,Crédito cancelado,20:16.3,45
+7712,50147126,C1,N,5,617983,Crédito cancelado,51:47.7,25
+7713,50148209,C1,N,5,740249,Crédito cancelado,43:47.9,65
+7715,50149813,C1,N,5,152614,Expediente cancelado con bolsa de testimonio entregado al cliente,02:40.2,59
+7716,50150159,C1,N,5,1065627,Crédito cancelado,14:42.7,53
+7717,50150355,C1,N,5,1071802,Crédito cancelado,25:20.4,30
+7719,50150496,C1,N,5,1072164,Crédito cancelado,19:17.9,73
+7720,50150551,C1,N,5,1072230,Expediente  y  Testimonio original,39:32.0,89
+7730,288072,U,D,378,288072,Devolución nueva estructura,25:57.5,97
+7736,864206,U,D,378,864206,Devolución nueva estructura,45:29.7,80
+7908,50129863,C1,N,5,895103,Crédito cancelado,10:39.7,41
+7935,701967,U,D,378,701967,Devolución nueva estructura,05:42.3,33
+7937,10063395,C1,N,21,301352,Creacion de etiqueta para expediente,20:14.0,99
+7968,264821,U,D,378,264821,Devolución en folder,02:44.9,52
+8076,10258240,C1,N,5,108890,traslado por actualizacion de cambios en seguridad,56:14.6,83
+8077,10258343,C1,N,5,648342,traslado por actualizacion de cambios en seguridad,56:14.6,42
+8078,10258367,C1,N,5,885173,Expediente  y  Testimonio original,40:27.9,95
+8106,810818,U,D,378,810818,Devolución nueva estructura,38:37.8,23
+8108,1063729,U,D,378,1063729,Devolución nueva estructura,50:20.2,51
+8109,10251058,C1,N,5,103028,Crédito cancelado,35:45.9,82
+8111,10301413,C1,N,5,715532,Expediente  y  Testimonio original,35:27.7,26
+8112,10303813,C1,N,5,676981,Expediente cancelado con bolsa de testimonio entregado al cliente,09:59.9,25
+8160,50133656,C1,N,5,899803,EXPEDIENTE CON BOLSA CANCELADA PARA ENVIAR A PERGAMINOS,01:03.4,69
+8161,50133931,C1,N,5,809041,Crédito cancelado,17:02.9,37
+8162,50134038,er,N,5,682455,Crédito cancelado,31:00.2,21
+8163,50134416,C1,N,5,973192,Expediente  y  Testimonio original,47:36.9,19
+8165,50134715,C1,T,5,906966,Crédito cancelado,55:48.3,90
+8166,50134856,C1,N,5,1027126,Crédito cancelado,54:24.3,98
+8167,50135159,C1,N,5,725446,Crédito cancelado,03:08.2,65
+8168,50135238,C1,N,22,297711,Creacion de etiqueta para expediente,07:42.1,22
+8177,611624,U,D,378,611624,Devolución nueva estructura,50:26.1,21
+8189,20011697,C1,N,5,285729,Crédito cancelado,41:56.5,56
+8224,20027311,C1,N,5,691619,Crédito cancelado,57:51.6,20
+8225,20042866,C1,N,5,642707,Crédito cancelado,25:42.2,69
+8226,20048353,C1,N,5,863340,Crédito cancelado,02:50.1,60
+8227,20049333,C1,N,5,785773,Crédito cancelado,42:37.8,23
+8229,20061329,C1,N,5,783208,Crédito cancelado,18:55.2,80
+8230,20061422,C1,N,22,873399,Creacion de etiqueta para expediente,52:52.7,48
+8257,666615,U,D,378,666615,Para resguardo,05:00.0,72
+8258,667078,U,D,378,667078,Para resguardo,05:00.0,91
+8261,668158,U,D,378,668158,Para resguardo,55:26.9,52
+8268,669206,U,D,378,669206,Devolución nueva estructura,02:03.8,75
+8274,670284,U,D,378,670284,Resguardo nueva estructura,54:47.5,66
+8276,670825,U,D,378,670825,Para resguardo,55:26.9,87
+8278,671000,U,D,378,671000,Devolución nueva estructura,55:26.9,46
+8303,676094,U,D,378,676094,Devolución nueva estructura,58:27.3,67
+8305,676215,U,D,378,676215,Devolución nueva estructura,58:27.3,84
+8309,676965,U,D,378,676965,Devolución nueva estructura,22:41.4,72
+8332,693106,U,D,378,693106,Devolución nueva estructura,00:50.3,57
+8333,693300,U,D,378,693300,Devolución nueva estructura,10:34.6,72
+8334,693705,U,D,378,693705,Expediente en Leitz,20:09.4,83
+8335,693711,U,D,378,693711,Devolución nueva estructura,22:41.7,59
+8337,694633,U,D,378,694633,Devolución nueva estructura,10:34.9,84
+8338,695094,U,D,378,695094,Devolución nueva estructura,06:28.9,83
+8363,699708,U,D,378,699708,Devolución nueva estructura,10:34.7,19
+8367,700402,U,D,378,700402,Devolución nueva estructura,10:34.7,84
+8368,701392,U,D,,701392,Devolución nueva estructura,05:42.5,50
+8369,30027862,C1,N,57,1039354,Crédito cancelado,18:29.6,25
+8371,30028165,C1,N,5,1039187,Expediente cancelado con bolsa de testimonio entregado al cliente,52:49.4,65
+8372,30028440,C1,N,5,1039437,Crédito cancelado,26:34.6,84
+8373,30028464,C1,N,5,717687,EXPEDIENTE CON BOLSA CANCELADA ENTREGADA PARA ENVIAR A PERGAMINOS,35:06.7,86
+8374,30028660,C1,N,5,515868,Expediente cancelado con bolsa de testimonio entregado al cliente,04:09.4,93
+8375,30028684,C1,N,5,142673,expediente con bolsa cancelada para enviar a pergaminos,09:25.3,78
+8376,30028725,C1,N,5,1047147,Expediente cancelado con bolsa de testimonio entregado al cliente,52:49.8,82
+8377,30028957,C1,N,5,740265,traslado por actualizacion de cambios en seguridad,56:14.6,76
+8416,50145465,C1,N,5,1047167,Crédito cancelado,38:00.2,93
+8417,50145702,C1,N,5,1052748,Crédito cancelado,09:24.9,56
+8424,866810,U,,378,866810,Devolución nueva estructura,45:29.4,38
+8426,1047291,U,D,378,1047291,Devolución nueva estructura,48:12.3,68
+8444,10319288,C1,N,5,1074053,Expediente  y  Testimonio original,35:23.6,45
+8584,10312632,C1,N,5,124534,expediente con bolsa cancelada para enviar a pergaminos,14:39.5,20
+8585,10312644,C1,N,5,133994,traslado por actualizacion de cambios en seguridad,56:14.7,76
+8586,10312814,C1,,5,151461,"expediente con testimonio original para enviar a pergaminos
+",36:42.3,55
+9110,10311937,C1,N,5,103181,Expediente  y  Testimonio original,38:05.3,45
+9163,10239892,C1,N,5,853640,Expediente  y  Testimonio original,14:36.7,19
+9164,10247368,C1,N,5,644167,traslado por actualizacion de cambios en seguridad,56:15.4,96
+9165,10248594,C1,N,5,881516,Expediente  y  Testimonio original,58:02.3,31
+9166,10118529,C1,N,5,649421,Crédito cancelado,55:14.1,87
+9167,10188689,C1,N,5,296130,traslado por actualizacion de cambios en seguridad,56:15.4,48
+9169,10302106,C1,N,5,1045738,Crédito cancelado,27:17.3,26
+9170,10249134,C1,N,5,808798,Expediente  y  Testimonio original,58:02.2,21
+9171,10256163,C1,N,5,107109,traslado por actualizacion de cambios en seguridad,56:15.4,81
+9172,10302883,C1,N,5,802139,Expediente  y  Testimonio original,40:45.7,83
+9173,20005505,C3,N,5,142159,Crédito cancelado,12:19.3,28
+9174,10020317,C1,N,5,107816,traslado por actualizacion de cambios en seguridad,56:15.5,34
+9175,90023185,C1,N,5,464001,Crédito cancelado,47:29.2,48
+9176,90023238,C1,N,5,127349,traslado por actualizacion de cambios en seguridad,56:15.5,84
+9177,90024751,C1,N,5,834120,Crédito cancelado,47:29.3,29
+9178,10133191,C1,N,5,655070,traslado por actualizacion de cambios en seguridad,56:15.5,92
+9215,50152523,C1,D,378,1059392,Para resguardo,22:36.0,73
+9216,50152547,C1,N,5,1103415,Expediente  y  Testimonio original,38:47.0,21
+9217,50152597,C1,N,5,446959,Crédito cancelado,10:31.8,59
+9218,50152614,C1,N,5,738927,EXP.CON BOLSA CANC.ENTREGADO ENVIADOS A PERGAMINOS,28:02.9,88
+9219,50152638,C1,N,5,1100878,Expediente cancelado con bolsa de testimonio entregado al cliente,44:51.2,71
+9220,50152664,C1,N,5,338200,Crédito cancelado,34:24.4,96
+9221,50152779,C1,N,5,207898,Crédito cancelado,34:24.7,95
+9223,50152810,C1,N,5,480050,Expediente con bolsa de cancelado entregado para enviar a pergaminos,42:22.5,95
+9224,50152834,C1,N,5,864600,Crédito cancelado,34:24.8,18
+9225,50152858,C1,N,5,100070,Expediente cancelado con bolsa de testimonio entregado al cliente,44:51.3,85
+9232,682610,U,D,378,682610,Devolución nueva estructura,02:03.9,24
+9234,682669,U,D,378,682669,Devolución nueva estructura,55:26.9,100
+9236,682671,U,D,378,682671,Devolución nueva estructura,56:38.2,34
+9240,683141,U,D,378,683141,Devolución nueva estructura,02:03.9,33
+9243,683453,U,D,378,683453,Devolución nueva estructura,22:41.5,58
+9244,683458,U,D,378,683458,Resguardo nueva estructura,47:48.7,52
+9251,684751,U,D,378,684751,Devolución nueva estructura,22:41.5,26
+9252,684806,U,N,21,684806,Creacion de etiqueta para expediente,53:10.8,52
+9253,685283,U,D,378,685283,Devolución nueva estructura,56:38.1,100
+9277,705095,U,D,378,705095,Devolución nueva estructura,49:48.8,57
+9301,710218,U,D,378,710218,Devolución nueva estructura,49:48.6,48
+9302,710989,U,D,378,710989,Devolución nueva estructura,49:48.6,60
+9306,711836,U,D,378,711836,Devolución nueva estructura,49:48.8,37
+9311,712809,U,D,378,712809,Devolución nueva estructura,05:42.4,85
+9332,719132,U,D,378,719132,Expediente en Leitz,03:34.8,63
+9335,720805,U,D,378,720805,Devolución nueva estructura,23:46.9,96
+9336,722024,U,D,378,722024,Devolución nueva estructura,25:43.9,30
+9339,723297,U,N,22,723297,Creacion de etiqueta para expediente,51:37.1,51
+9340,723562,U,D,378,723562,Devolución nueva estructura,25:43.9,23
+9342,723602,U,D,378,723602,Devolución nueva estructura,23:47.0,78
+9343,723662,U,D,378,723662,Resguardo nueva estructura,48:58.8,42
+9345,724459,U,D,378,724459,Para resguardo,04:50.5,97
+9348,725426,U,D,378,725426,Devolución nueva estructura,23:47.1,54
+9349,725433,U,N,22,725433,Creacion de etiqueta para expediente,51:42.7,60
+9350,725435,U,D,378,725435,Devolución nueva estructura,23:46.9,87
+9351,10329336,C1,N,5,822948,Crédito cancelado,31:32.1,55
+9352,10341217,C1,N,5,821994,traslado por actualizacion de cambios en seguridad,56:15.5,38
+9353,10341229,C1,N,5,126779,Expediente  y  Testimonio original,48:36.0,90
+9387,10341712,C1,N,5,655215,Expediente  y  Testimonio original,48:36.1,68
+9388,10341700,C1,N,5,148967,Expediente  y  Testimonio original,48:36.0,34
+9389,10341695,C1,N,5,124592,Expediente  y  Testimonio original,48:36.0,24
+9398,726386,U,D,378,726386,Cliente actualizado,32:59.7,90
+9399,727060,U,D,378,727060,Devolución nueva estructura,33:32.7,32
+9401,728398,U,D,378,728398,Devolución nueva estructura,38:37.6,42
+9417,735985,U,N,21,735985,Creacion de etiqueta para expediente,10:38.3,25
+9422,740466,U,D,378,740466,Devolución nueva estructura,56:22.5,83
+9445,1049202,U,D,378,1049202,Devolución nueva estructura,21:38.7,35
+9447,763031,U,D,378,763031,Devolución nueva estructura,37:42.1,96
+9451,766743,U,D,378,766743,Devolución nueva estructura,37:42.4,60
+9454,771013,U,D,378,771013,Devolución nueva estructura,56:22.2,25
+9474,793563,U,D,378,793563,Devolución nueva estructura,13:48.9,55
+9480,801149,U,D,378,801149,Devolución nueva estructura,00:40.1,68
+9483,802695,U,D,378,802695,Devolución nueva estructura,49:35.5,42
+9484,803404,U,D,378,803404,Devolución nueva estructura,38:37.2,86
+9505,820016,U,D,378,820016,Devolución nueva estructura,00:40.2,86
+9509,822684,U,D,378,822684,Devolución nueva estructura,56:22.8,21
+9510,822920,U,D,378,822920,Devolución nueva estructura,13:48.9,81
+9541,845136,U,D,378,845136,Devolución nueva estructura,52:58.8,35
+9562,866991,U,D,378,866991,Devolución nueva estructura,45:07.0,53
+9565,871584,U,D,378,871584,Devolución nueva estructura,52:58.8,73
+9566,872410,U,D,378,872410,Devolución nueva estructura,57:41.2,88
+10345,10107881,C1,N,5,124745,traslado por actualizacion de cambios en seguridad,56:17.0,39
+10346,10108108,C1,D,378,124628,Para resguardo,26:23.0,67
+10347,10108275,C1,N,5,107525,Crédito cancelado,32:26.4,33
+10348,10108328,C1,N,5,668174,expediente con bolsa cancelada para enviar a pergaminos,09:25.1,91
+10349,10108392,C1,N,5,481381,traslado por actualizacion de cambios en seguridad,56:17.1,90
+10350,10108471,C1,N,5,295316,Crédito cancelado,04:20.3,79
+10351,10108665,C1,N,5,701046,Expediente  y  Testimonio original,21:18.5,74
+10352,10108677,C1,N,22,652511,Creacion de etiqueta para expediente,43:53.3,25
+10353,10108768,C1,N,5,124475,Crédito cancelado,15:04.1,72
+10354,10108885,C1,N,5,115749,Expediente  y  Testimonio original,21:18.6,98
+10388,10109009,C1,N,5,111669,traslado por actualizacion de cambios en seguridad,56:17.1,52
+10389,10109023,C1,N,5,632051,Expediente  y  Testimonio original,21:18.6,96
+10390,10109217,C1,N,5,146144,traslado por actualizacion de cambios en seguridad,56:17.1,61
+10391,10109322,C1,N,5,151376,Crédito cancelado,43:08.8,71
+10392,10109334,C1,N,5,700895,expediente con bolsa de testimonio cancelado entregado,04:33.5,32
+10393,10109372,C1,N,22,631150,Creacion de etiqueta para expediente,34:24.4,49
+10395,10109413,C1,N,5,651162,Expediente  y  Testimonio original,10:41.4,50
+10396,10109504,C1,N,5,104292,Expediente  y  Testimonio original,21:19.2,78
+10817,10141679,C1,N,22,724683,Creacion de etiqueta para expediente,45:22.2,92
+10819,10141722,C1,N,5,693300,traslado por actualizacion de cambios en seguridad,56:17.7,29
+10822,10141930,C1,N,22,112226,Creacion de etiqueta para expediente,45:25.3,95
+10823,10141942,C1,N,22,112720,Creacion de etiqueta para expediente,45:25.7,83
+10824,10141954,C1,N,22,112720,Creacion de etiqueta para expediente,45:26.6,46
+10825,10142037,C1,N,5,390406,traslado por actualizacion de cambios en seguridad,56:17.8,38
+11096,10156284,C1,N,5,126444,Expediente  y  Testimonio original,49:43.3,48
+11097,10156296,C1,N,5,148640,traslado por actualizacion de cambios en seguridad,56:17.9,52
+11098,10156313,C1,N,5,142831,traslado por actualizacion de cambios en seguridad,56:17.9,71
+11099,10156325,C1,N,5,615016,expediente con bolsa de testimonio cancelado entregado,04:33.5,20
+12279,10197109,C1,N,5,760700,Expediente  y  Testimonio original,26:47.1,65
+12280,10197111,C1,N,5,138929,Crédito cancelado,08:53.5,56
+14211,10234567,C1,N,5,822920,traslado por actualizacion de cambios en seguridad,56:27.3,41
+14212,10234579,C1,N,5,861538,traslado por actualizacion de cambios en seguridad,56:27.3,64
+14214,10234608,C1,N,5,705095,Crédito cancelado,12:30.1,43
+14215,10234725,C1,N,5,773282,Expediente  y  Testimonio original,20:35.4,90
+14216,10234775,C1,N,5,131871,Expediente  y  Testimonio original,20:35.4,73
+14217,10234866,C1,N,5,862140,Crédito cancelado,12:30.1,28
+14218,10234878,C1,N,5,789173,"expediente con testimonio original para enviar a pergaminos
+",36:16.0,92
+14219,10234880,C1,N,5,682597,Expediente  y  Testimonio original,20:35.4,61
+14220,10234907,C1,N,5,141947,traslado por actualizacion de cambios en seguridad,56:27.3,74
+14221,10234919,C1,N,5,100155,Expediente  y  Testimonio original,20:35.5,38
+14222,10234933,C1,N,5,112274,traslado por actualizacion de cambios en seguridad,56:27.3,94
+14223,10234957,C1,N,5,150496,traslado por actualizacion de cambios en seguridad,56:27.3,58
+14224,10234969,C1,N,5,863951,traslado por actualizacion de cambios en seguridad,56:27.3,58
+14225,10235080,C1,N,5,851782,Expediente cancelado con bolsa de testimonio entregado al cliente,19:00.3,78
+14226,10235133,C1,N,5,719793,traslado por actualizacion de cambios en seguridad,56:27.3,51
+14227,10235200,C1,N,5,698957,traslado por actualizacion de cambios en seguridad,56:27.3,95
+14228,10235212,C1,N,5,176353,traslado por actualizacion de cambios en seguridad,56:27.3,36
+14239,10341621,C1,N,5,393043,Expediente  y  Testimonio original,30:16.8,49
+14240,10343241,C1,N,5,877322,Expediente  y  Testimonio original,14:39.4,81
+14241,10343459,C1,N,5,123094,traslado por actualizacion de cambios en seguridad,56:27.3,28
+14242,10343629,C1,N,5,119578,Expediente  y  Testimonio original,30:16.6,37
+14246,10343813,C1,N,5,117230,Expediente  y  Testimonio original,48:36.3,48
+14247,10343851,C1,N,5,674729,Expediente  y  Testimonio original,30:16.6,80
+14248,10343863,C1,N,5,787998,Expediente  y  Testimonio original,14:39.5,49
+14249,10343875,C1,N,5,758742,Expediente  y  Testimonio original,48:36.3,49
+14251,10344312,C1,N,5,112367,Expediente  y  Testimonio original,30:16.5,78
+14252,10344324,C1,N,5,149892,Crédito cancelado,09:32.7,39
+14253,10344336,C1,N,5,744262,Expediente  y  Testimonio original,48:36.4,92
+14265,90036584,C1,N,5,119758,Expediente  y  Testimonio original,02:15.9,64
+14266,90033609,C1,N,5,795954,traslado por actualizacion de cambios en seguridad,56:27.3,52
+14267,90033776,C1,N,22,880948,Creacion de etiqueta para expediente,32:24.3,59
+14268,90033336,C1,N,5,517828,Crédito cancelado,08:21.2,96
+14269,90033386,C1,N,5,820805,expediente con bolsa de testimonio cancelado entregado,15:45.3,28
+14270,90033415,C1,N,5,124109,Expediente  y  Testimonio original,33:36.3,66
+14271,90033518,C1,N,5,843256,Expedientes con bolsa concelado-entregado,52:38.8,96
+14272,90033520,C1,N,5,117396,traslado por actualizacion de cambios en seguridad,56:27.4,47
+14273,90033635,C1,N,5,142569,Expediente  y  Testimonio original,12:41.3,47
+14274,90033714,C1,N,5,630102,traslado por actualizacion de cambios en seguridad,56:27.4,93
+14275,90033831,C1,N,5,112725,Crédito cancelado,43:01.9,98
+14276,90033881,C1,D,1,165673,Creacion de etiqueta para expediente,33:44.1,39
+14277,90033934,C1,N,5,826282,traslado por actualizacion de cambios en seguridad,56:27.4,84
+14278,20046018,C1,N,5,824474,Crédito cancelado,54:52.0,51
+14280,10308564,C1,N,5,301116,Expediente  y  Testimonio original,35:26.8,61
+14281,10343021,C1,N,5,847660,Expediente  y  Testimonio original,48:36.2,18
+14283,20034558,C1,N,5,200095,Crédito cancelado,51:18.2,35
+15916,50044305,C1,N,5,291091,expediente con bolsa de testimonio cancelado entregado al cliente.,19:17.2,98
+15917,50044329,C1,N,22,243346,Creacion de etiqueta para expediente,58:07.8,93
+15918,50044331,C1,N,5,686461,Crédito cancelado,26:34.7,66
+15919,50044587,C1,N,5,706777,Crédito cancelado,32:45.9,56
+15920,50044599,C1,N,5,709457,EXPEDIENTE CON BOLSA CANCELADA ENTREGADAS PARA ENVIAR A PERGAMINOS,19:52.8,25
+15921,50044604,C1,N,5,710228,Expediente cancelado con bolsa de testimonio entregado al cliente,59:57.0,59
+15941,PL003780,C6,N,5,134380,Expediente  y  Testimonio original,51:51.3,51
+15950,PL003817,C6,N,5,814719,Expediente  y  Testimonio original,51:51.5,39
+15953,10194793,C1,N,5,366323,traslado por actualizacion de cambios en seguridad,56:28.1,96
+15954,10327522,C1,N,5,227522,traslado por actualizacion de cambios en seguridad,56:28.1,53
+15955,10327546,C1,N,5,124306,Crédito cancelado,31:31.9,93
+15956,10328643,C1,N,5,141971,Expediente  y  Testimonio original,48:34.0,25
+17484,50109992,C1,N,5,847366,Expediente con bolsa de cancelado entregado para enviar a pergaminos,58:07.6,85
+18072,50123871,C1,N,5,876911,expediente con bolsa de testimonio cancelado entregado al cliente.,19:17.8,70
+18073,50123950,C1,N,5,866049,Crédito cancelado,44:49.3,64
+18074,50123974,C1,N,5,879592,traslado por actualizacion de cambios en seguridad,56:29.9,29
+18075,50123998,C1,N,5,878524,Crédito cancelado,21:18.9,25
+18076,50124095,C1,N,5,695257,expediente con bolsa de testimonio cancelado entregado al cliente.,19:17.8,43
+18103,1129548,U,D,378,1129548,Devolución nueva estructura,50:20.0,58
+18105,50111294,C1,N,5,791691,Crédito cancelado,25:21.7,27
+18279,90000393,C2,N,5,150238,Crédito cancelado,28:43.5,33
+18280,90000446,C2,N,5,148531,traslado por actualizacion de cambios en seguridad,56:29.9,99
+18282,90001138,C1,N,5,132061,Expediente  y  Testimonio original,33:35.7,38
+18283,90001164,C1,N,5,149819,Expediente  y  Testimonio original,33:35.7,45
+18284,90001671,C1,N,5,125121,Crédito cancelado,28:43.5,44
+18285,90002481,C1,N,5,134739,Expediente  y  Testimonio original,33:35.7,47
+18286,90002754,C1,N,5,207798,Expediente  y  Testimonio original,33:35.7,73
+18287,90002778,C1,N,5,116329,traslado por actualizacion de cambios en seguridad,56:29.9,33
+18289,90002900,C1,N,5,118335,traslado por actualizacion de cambios en seguridad,56:29.9,68
+18290,90003057,C1,N,5,642349,Crédito cancelado,28:43.5,99
+18291,90003136,C1,N,5,433997,Expediente  y  Testimonio original,33:35.7,63
+18292,90003411,C1,N,5,144499,Crédito cancelado,28:43.5,77
+18611,90024385,C1,N,5,872615,traslado por actualizacion de cambios en seguridad,56:30.0,19
+18615,665958,U,N,22,665958,Creacion de etiqueta para expediente,25:55.9,88
+18729,651004,U,D,378,651004,Para resguardo,39:44.9,41
+18730,10237052,C1,N,5,682690,traslado por actualizacion de cambios en seguridad,56:30.0,62
+18731,10003100,C2,N,5,124108,Expediente  y  Testimonio original,32:34.7,26
+18733,10011744,C2,N,5,133974,traslado por actualizacion de cambios en seguridad,56:30.0,63
+18734,10001487,C2,N,5,116806,traslado por actualizacion de cambios en seguridad,56:30.1,36
+18735,10001621,C2,N,21,101333,Creacion de etiqueta para expediente,00:26.1,18
+18736,10001633,C2,D,1,101333,Creacion de etiqueta para expediente,00:35.7,29
+18737,10008265,C2,N,5,116222,traslado por actualizacion de cambios en seguridad,56:30.1,28
+18917,10329063,C1,N,5,106853,Crédito cancelado,31:32.1,33
+19488,90035982,C1,N,5,391442,Expediente  y  Testimonio original,02:16.1,35
+19491,20042543,C1,N,5,152055,Crédito cancelado,37:12.3,62
+19492,20041719,C1,N,5,121785,Crédito cancelado,02:50.4,75
+19493,10335141,C1,N,5,667958,Crédito cancelado,14:03.4,100
+19523,10348502,C1,N,5,109954,Crédito cancelado,43:01.8,33
+19524,10348447,C1,N,5,141975,Crédito cancelado,09:33.8,20
+19525,90037289,C1,N,5,1041096,traslado por actualizacion de cambios en seguridad,56:30.5,39
+19689,10348241,C1,N,5,119041,Expediente  y  Testimonio original,14:39.7,61
+19690,10347962,C1,N,5,124104,Expediente  y  Testimonio original,14:39.6,45
+19691,10348021,C1,N,5,288937,Expediente  y  Testimonio original,30:15.0,65
+19692,10348239,C1,N,5,767419,Expediente  y  Testimonio original,30:14.1,70
+19693,10348186,C1,N,5,137755,traslado por actualizacion de cambios en seguridad,56:30.5,75
+19694,90037277,C1,N,5,467714,traslado por actualizacion de cambios en seguridad,56:30.5,39
+19696,10348215,C1,N,5,141962,Expediente  y  Testimonio original,48:37.0,96
+19698,10348019,C1,N,5,1156421,Crédito cancelado,29:01.5,50
+19699,10347974,C1,N,5,150799,Expediente  y  Testimonio original,48:37.0,100
+19700,10347986,C1,N,5,667855,traslado por actualizacion de cambios en seguridad,56:30.5,49
+19701,90037306,C1,N,5,280533,traslado por actualizacion de cambios en seguridad,56:30.5,24
+19707,1137774,U,N,22,1137774,Creacion de etiqueta para expediente,41:50.6,43
+19730,90004647,C1,N,5,632080,Crédito cancelado,24:19.8,18
+19731,10339379,C1,N,5,246455,Crédito cancelado,31:32.4,87
+19732,10339721,C1,N,5,144279,Expediente cancelado con bolsa de testimonio entregado al cliente,20:13.5,77
+19733,10342481,C1,N,5,744512,Expediente  y  Testimonio original,14:39.4,56
+19734,10342493,C1,N,5,106465,Crédito cancelado,31:32.5,87
+19735,10342194,C1,N,5,1073273,Expediente  y  Testimonio original,30:16.8,100
+19736,50152200,C1,N,5,807126,Crédito cancelado,57:52.5,56
+19737,1083897,U,D,378,1083897,Devolución nueva estructura,09:49.5,62
+19738,834378,U,N,22,834378,Creacion de etiqueta para expediente,21:54.9,48
+19740,20069383,C1,D,377,903926,Entrega,23:15.4,39
+19741,10340445,C1,N,5,692343,Crédito cancelado,31:32.4,61
+19956,10349685,C1,N,5,226212,Crédito cancelado,09:34.4,79
+19982,641463,U,D,378,641463,Devolución nueva estructura,20:24.0,27
+19984,10347493,C1,N,5,687662,Expediente con bolsa cancelado-entregado,47:32.3,25
+19985,90037538,C1,N,5,813130,Para enviar a pergaminos.,41:52.9,24
+19986,90037540,C1,N,5,360439,Expediente  y  Testimonio original,02:15.5,86
+19987,10347431,C1,N,5,128713,Expediente  y  Testimonio original,48:36.9,31
+19988,10349556,C1,N,5,110815,Expediente  y  Testimonio original,37:26.4,60
+19989,10348227,C1,N,5,847846,traslado por actualizacion de cambios en seguridad,56:30.5,73
+19991,10312369,C1,N,5,857576,traslado por actualizacion de cambios en seguridad,56:30.5,47
+19992,20070825,C1,N,5,242444,Expediente cancelado con bolsa de testimonio entregado al cliente,57:27.8,65
+19993,20061850,C1,N,5,720943,Crédito cancelado,47:12.8,80
+19994,90037485,C1,N,5,346035,Expediente cancelado con bolsa de testimonio entregado al cliente,49:36.9,21
+20064,10228506,C1,N,5,707946,"expediente con bolsa de cancelado entregado eniviado a pergaminos
+",31:11.9,38
+20065,10330268,C1,N,5,802588,traslado por actualizacion de cambios en seguridad,56:30.5,82
+20066,20045909,C1,N,5,838646,Crédito cancelado,42:37.5,57
+20075,LC000110,C6,N,5,281783,Expediente  y  Testimonio original,40:08.3,35
+20079,CL001307,C6,N,5,249606,Crédito cancelado,33:12.6,23
+20121,CL002397,C6,N,5,824467,Para enviar a Pergaminos expediente en bolsa de cancelado,44:10.4,62
+20122,PL001792,C6,N,5,481173,Crédito cancelado,30:49.6,99
+20144,CL001718,C6,N,5,110417,Expediente  y  Testimonio original,39:41.4,79
+20149,PL002625,C6,N,5,150991,Expediente  y  Testimonio original,40:15.9,76
+20174,PL003332,C6,N,5,678846,Expediente  y  Testimonio original,51:50.8,60
+20176,PL003653,C6,D,1,792725,Creacion de etiqueta para expediente,10:51.5,36
+20182,PL001609,C6,N,5,701600,Expediente cancelado con bolsa de testimonio entregado al cliente,49:55.8,27
+20189,10214957,C1,N,22,631950,Creacion de etiqueta para expediente,19:52.8,96
+20210,PL003261,C6,N,5,816045,Para enviar a pergaminos expediente con bolsa de cancelado,47:36.5,95
+20211,PL003260,C6,N,5,816045,Para enviar a pergaminos expediente con bolsa de cancelado,47:36.4,72
+20229,CL002104,C6,N,5,120728,Crédito cancelado,06:25.4,93
+20231,PL003248,C6,N,5,812575,Para enviar a pergaminos expediente con bolsa de cancelado,42:51.6,56
+20234,PL002906,C6,N,5,100236,Expediente cancelado con bolsa de testimonio entregado al cliente,49:56.1,79
+20260,PL003149,C6,N,5,239724,Expediente  y  Testimonio original,51:50.6,22
+20296,CL002038,C6,N,21,190440,Creacion de etiqueta para expediente,20:34.8,17
+20297,CL002179,C6,N,22,190440,Creacion de etiqueta para expediente,20:35.6,32
+20313,CL002412,C6,N,5,762010,Para enviar a pergaminos expediente con bolsa de cancelado,42:51.2,5
+20320,PL003436,C6,N,5,171314,Expediente  y  Testimonio original,51:50.9,63
+20341,PL003036,C6,N,5,294868,Para enviar a pergaminos expediente con bolsa de cancelado,47:36.2,93
+20342,PL000386,C6,N,5,726143,Para enviar a Pergaminos expediente en bolsa de cancelado,44:10.4,55
+20346,PL003572,C6,N,5,1066013,Crédito cancelado,37:15.3,18
+20347,PL003573,C6,N,5,1066013,Crédito cancelado,24:40.8,25
+20348,PL003400,C6,N,5,161731,Expediente  y  Testimonio original,51:50.9,58
+20349,PL003186,C6,N,5,715299,Crédito cancelado,52:02.3,65
+20352,PL002158,C6,N,5,726600,Para enviar a pergaminos expediente con bolsa de cancelado,42:51.2,82
+20379,CL002286,C6,N,5,100550,Crédito cancelado,06:25.6,67
+20397,CL001359,C6,N,21,298399,Creacion de etiqueta para expediente,45:18.5,41
+20398,CL002037,C6,N,21,298399,Creacion de etiqueta para expediente,45:18.9,97
+20410,PL003009,C6,N,5,726933,Para enviar a pergaminos expediente con bolsa de cancelado,42:51.6,41
+20426,LC000129,C6,N,5,123121,Expediente  y  Testimonio original,40:10.8,46
+20433,CL002379,C6,N,5,646644,Expediente  y  Testimonio original,39:49.7,30
+20462,AL002003,C6,N,5,102498,Crédito cancelado,29:08.0,100
+20464,CL002477,C6,N,5,642624,Expediente  y  Testimonio original,39:49.8,72
+20493,PL002140,C6,N,5,668362,Crédito cancelado,30:49.4,100
+20510,PL002779,C6,N,5,718347,Para enviar a pergaminos expediente con bolsa de cancelado,47:36.2,35
+20511,PL002778,C6,N,367,718347,Traslado entre bodegas - Systema de expedientes,29:49.5,65
+20513,PL001175,C6,N,5,609315,Expediente cancelado con bolsa de testimonio entregado al cliente,49:55.8,87
+20514,PL001804,C6,N,5,108379,Crédito cancelado,30:49.5,94
+20518,PL002842,C6,N,5,295326,Expediente  y  Testimonio original,40:20.1,31
+20520,PL003199,C6,N,5,818042,Para enviar a pergaminos expediente con bolsa de cancelado,47:36.2,33
+20522,LC000181,C6,N,5,718097,Expediente  y  Testimonio original,40:14.4,49
+20539,PL003185,C6,N,5,801621,Expediente  y  Testimonio original,51:50.7,69
+20550,AL002395,C6,N,5,116816,Para enviar a pergaminos expediente con bolsa de cancelado,42:51.1,43
+20565,PL001388,C6,N,5,514644,Expediente  y  Testimonio original,40:14.9,26
+20578,CL002227,C6,N,5,677584,Para enviar a pergaminos expediente con bolsa de cancelado,47:36.0,26
+20593,LC000099,C6,N,5,152588,Expediente  y  Testimonio original,40:08.3,33
+20596,AL002401,C6,N,5,779222,Expediente cancelado con bolsa de testimonio entregado al cliente,49:56.0,62
+20598,LC000112,C6,N,5,690310,Expediente  y  Testimonio original,40:09.0,22
+20609,10214969,C1,N,22,825613,Creacion de etiqueta para expediente,30:24.6,97
+20621,CL002518,C6,N,5,639643,Crédito cancelado,18:51.2,33
+20628,AL002181,C6,N,5,626772,Para enviar a pergaminos expediente con bolsa de cancelado,42:51.1,65
+20629,PL003570,C6,N,5,897353,Expediente  y  Testimonio original,51:51.1,90
+20630,PL003571,C6,N,5,897353,Expediente  y  Testimonio original,51:51.1,62
+20631,PL003033,C6,N,5,102163,Crédito cancelado,39:51.4,51
+20648,LC000216,C6,N,5,240578,Expediente  y  Testimonio original,40:14.5,56
+20650,PL002305,C6,N,5,482316,Para enviar a Pergaminos expediente en bolsa de cancelado,44:11.1,37
+20657,LC000206,C6,N,5,121802,Crédito cancelado,30:49.7,83
+20659,PL001913,C6,N,5,726774,Expediente  y  Testimonio original,40:15.8,52
+20661,AL002445,C6,N,5,859528,Para enviar a Pergaminos expediente en bolsa de cancelado,44:08.8,21
+20681,CL001637,C6,N,5,723640,Para enviar a Pergaminos expediente en bolsa de cancelado,44:09.3,82
+20692,PL002015,C6,N,5,727424,Para enviar a pergaminos expediente con bolsa de cancelado,47:36.1,18
+20704,PL002299,C6,N,5,293313,Expediente cancelado con bolsa de testimonio entregado al cliente,49:55.8,96
+20737,PL002289,C6,N,5,654963,Para enviar a pergaminos expediente con bolsa de cancelado,47:36.1,62
+20738,PL003211,C6,N,5,668184,Para enviar a pergaminos expediente con bolsa de cancelado,47:36.2,63
+20742,PL002178,C6,N,5,652787,Expediente  y  Testimonio original,40:15.8,93
+20744,CL001643,C6,N,5,631812,Expediente  y  Testimonio original,39:41.4,80
+20745,LC000195,C6,N,5,631812,Crédito cancelado,37:14.7,50
+20765,10328186,C1,N,5,866551,Crédito cancelado,09:03.4,63
+20816,20071075,C1,N,5,778588,Crédito cancelado,03:31.7,32
+20817,10350464,C1,N,5,805177,Expediente  y  Testimonio original,30:13.9,90
+20818,20070930,C1,N,5,879371,Crédito cancelado,56:11.8,60
+20820,10350402,C1,N,5,390406,Crédito cancelado,32:54.5,26
+20821,10350397,C1,N,5,1140286,Crédito cancelado,09:34.5,74
+20825,PL002142,C6,N,5,728238,Para enviar a Pergaminos expediente en bolsa de cancelado,44:11.1,40
+20826,PL002640,C6,N,5,702937,Para enviar a pergaminos expediente con bolsa de cancelado,42:51.5,88
+20854,PL003472,C6,N,5,662992,Expediente  y  Testimonio original,51:50.9,35
+20873,PL003023,C6,N,5,234816,Crédito cancelado,52:01.4,97
+20877,PL002496,C6,N,5,144839,Crédito cancelado,39:51.3,30
+20878,PL003039,C6,N,5,123675,Expediente  y  Testimonio original,40:21.1,51
+20904,AL001969,C6,N,5,132314,Expediente cancelado con bolsa de testimonio entregado al cliente,49:56.0,78
+20909,PL002608,C6,N,5,182541,Expediente  y  Testimonio original,40:15.9,22
+20911,PL002949,C6,N,5,734074,Expediente  y  Testimonio original,40:20.1,21
+20913,AL002321,C6,N,5,608099,Crédito cancelado,29:08.1,42
+20930,CL002020,C6,N,5,100524,Crédito cancelado,06:25.4,81
+20959,PL002684,C6,N,5,708492,Para enviar a pergaminos expediente con bolsa de cancelado,47:36.1,88
+20960,PL003141,C6,N,5,819704,Para enviar a pergaminos expediente con bolsa de cancelado,42:51.6,90
+20967,CL002429,C6,N,5,298003,Expediente  y  Testimonio original,39:49.7,36
+21013,AL001831,C6,N,5,663054,Expediente cancelado con bolsa de testimonio entregado al cliente,49:55.9,38
+21014,AL001879,C6,N,5,663051,Expediente cancelado con bolsa de testimonio entregado al cliente,49:55.9,45
+21017,PL001509,C6,N,5,337777,Para enviar a pergaminos expediente con bolsa de cancelado,47:36.1,60
+21018,PL001709,C6,N,5,280728,Crédito cancelado,31:40.2,63
+21044,PL003448,C6,N,5,845942,Para enviar a pergaminos expediente con bolsa de cancelado,47:36.5,90
+21046,10350426,C1,N,5,111334,Crédito cancelado,32:54.2,67
+21047,10350414,C1,N,5,425357,traslado por actualizacion de cambios en seguridad,56:30.6,35
+21048,10350385,C1,N,5,643014,traslado por actualizacion de cambios en seguridad,56:30.6,88
+21049,10350256,C1,N,5,815642,Crédito cancelado,09:34.4,85
+21068,PL003711,C6,N,5,115486,Expediente  y  Testimonio original,51:51.3,76
+21069,PL003458,C6,N,5,879057,Crédito cancelado,42:36.2,55
+21071,PL003516,C6,N,5,885180,Para enviar a pergaminos expediente con bolsa de cancelado,42:51.6,78
+21077,PL003772,C6,N,5,803225,Para enviar a pergaminos expediente con bolsa de cancelado,42:51.5,69
+21096,LC000152,C6,N,5,259939,Expediente  y  Testimonio original,40:11.7,66
+21097,PL002276,C6,N,5,730472,Crédito cancelado,52:02.3,52
+21106,PL002758,C6,N,5,719267,Para enviar a Pergaminos expediente en bolsa de cancelado,44:11.2,94
+21109,PL002767,C6,N,5,704461,Para enviar a Pergaminos expediente en bolsa de cancelado,44:11.2,64
+21110,PL002197,C6,N,5,225875,Para enviar a pergaminos expediente con bolsa de cancelado,42:51.4,34
+21131,CL001991,C6,N,5,152601,Expediente  y  Testimonio original,39:42.4,82
+21133,CL001740,C6,N,5,130331,Expediente cancelado con bolsa de testimonio entregado al cliente,49:56.0,84
+21162,CL001602,C6,N,5,123100,Crédito cancelado,34:55.8,93
+21165,PL002498,C6,N,5,480997,Crédito cancelado,52:02.2,25
+21191,AL002326,C6,N,21,670992,Creacion de etiqueta para expediente,29:35.9,18
+21192,AL002327,C6,N,21,670992,Creacion de etiqueta para expediente,29:36.3,93
+21210,AL001887,C6,N,5,111773,Expediente  y  Testimonio original,38:00.2,98
+21380,10345172,C1,N,5,678805,Expediente  y  Testimonio original,48:36.6,25
+21381,90037502,C1,N,5,734829,Expediente  y  Testimonio original,02:15.6,35
+21383,10344740,C1,N,5,122490,Expediente  y  Testimonio original,48:36.5,72
+21384,10344738,C1,N,5,458564,Expediente  y  Testimonio original,48:36.5,93
+21385,10345122,C1,N,5,124480,traslado por actualizacion de cambios en seguridad,56:30.9,86
+21386,10345067,C1,N,5,139933,traslado por actualizacion de cambios en seguridad,56:30.9,78
+21388,10336808,C1,N,5,863951,Expediente  y  Testimonio original,48:35.2,63
+21389,10330024,C1,N,5,942358,Expediente  y  Testimonio original,48:34.2,98
+21390,10336248,C1,N,5,1075603,Expediente  y  Testimonio original,35:30.0,99
+21391,10336810,C1,N,5,124161,Expediente  y  Testimonio original,48:35.2,18
+21392,10336901,C1,N,5,747396,traslado por actualizacion de cambios en seguridad,56:30.9,86
+21393,10341190,C1,N,5,148499,Expediente  y  Testimonio original,30:16.9,61
+21395,50153345,C1,N,5,288483,Expediente cancelado con bolsa de testimonio entregado al cliente,02:40.1,81
+21397,10350634,C1,N,5,100319,Expediente  y  Testimonio original,14:39.9,18
+21398,90037863,C1,N,5,610725,Crédito cancelado,08:16.8,52
+21399,90037796,C1,N,5,118365,Expediente  y  Testimonio original,33:36.3,66
+21400,90037772,C1,N,5,648628,Expediente  y  Testimonio original,02:15.4,38
+21401,90037849,C1,N,5,629225,Para enviar a pergaminos.,41:52.9,92
+21402,20071116,C1,N,5,370201,Crédito cancelado,56:11.8,65
+21403,90037746,C1,N,5,821535,Expediente  y  Testimonio original,02:15.4,24
+21724,30030479,C1,N,5,109486,Enviado a pergaminos,24:17.2,43
+21740,30028543,C1,N,5,1046564,Crédito cancelado,32:45.6,78
+21741,50142700,C1,N,5,1045934,Expediente cancelado con bolsa de testimonio entregado al cliente,41:58.5,91
+21742,50143091,C1,N,5,828249,Crédito cancelado,35:04.9,87
+21743,PL002071,C6,N,5,116514,Para enviar a Pergaminos expediente en bolsa de cancelado,44:10.9,29
+22195,10351717,C1,N,5,142391,Expediente  y  Testimonio original,25:10.1,65
+22196,10350335,C1,N,5,116251,Expediente cancelado con bolsa de testimonio entregado al cliente,58:37.7,88
+22197,10350787,C1,N,5,1149047,Crédito cancelado,32:54.3,63
+22198,10351274,C1,N,5,110949,Expediente  y  Testimonio original,48:37.6,51
+22199,10351262,C1,N,5,145684,traslado por actualizacion de cambios en seguridad,56:31.8,96
+22200,10351406,C1,N,5,682683,Expediente  y  Testimonio original,48:37.6,26
+22203,10351092,C1,N,5,616379,Expediente  y  Testimonio original,48:37.6,56
+22204,10351470,C1,N,5,731416,Expediente  y  Testimonio original,48:37.6,35
+22207,10351690,C1,N,5,118213,Crédito cancelado,01:36.6,34
+22536,50145726,C1,N,5,1055404,Expediente  y  Testimonio original,38:46.8,47
+22538,50149461,C1,N,5,479699,Crédito cancelado,33:33.8,80
+22539,50143807,C1,N,5,1050012,Expediente con bolsa de cancelado entregado para enviar a pergaminos,42:13.2,65
+22540,50148871,C1,N,5,1060173,Crédito cancelado,33:34.0,92
+22541,50148510,C1,N,5,965302,Expediente cancelado con bolsa de testimonio entregado al cliente,02:40.2,19
+22542,50151684,C1,N,5,325558,Crédito cancelado,41:45.2,19
+22543,50148455,C1,N,5,849382,expediente con bolsa de testimonio cancelado entregado,15:45.1,71
+22545,50150537,C1,N,5,1064807,Crédito cancelado,49:52.6,44
+22547,50150410,C1,N,5,798447,Crédito cancelado,48:00.9,97
+22548,50149681,C1,N,5,1053086,expediente con bolsa de testimonio cancelado entregado al cliente.,19:18.0,43
+22560,50150616,C1,N,5,1074312,Crédito cancelado,19:18.0,78
+22561,30030106,C1,N,5,806974,Crédito cancelado,47:59.0,38
+22562,30029975,C1,N,5,1063930,Enviado a pergaminos,24:17.1,85
+22563,30029353,C1,N,5,1055448,expediente con bolsa cancelada para enviar a pergaminos,09:25.3,89
+22564,50148261,C1,N,5,737130,Expediente  y  Testimonio original,23:18.7,90
+22565,50148792,C1,N,5,340669,Crédito cancelado,48:09.5,76
+22566,50148352,C1,N,5,879804,Crédito cancelado,43:47.6,21
+22567,50149643,C1,N,5,1068978,Crédito cancelado,04:21.1,19
+22568,50148417,C1,N,5,1061039,Crédito cancelado,43:47.6,65
+22570,50148754,C1,N,5,668187,Crédito cancelado,43:47.7,35
+22774,10336561,C1,N,5,364427,Expediente  y  Testimonio original,48:35.2,30
+22775,10336614,C1,N,5,137727,Crédito cancelado,14:03.6,71
+22776,10344714,C1,N,5,793558,Expediente  y  Testimonio original,48:36.5,56
+22777,10344726,C1,N,5,1119984,Expediente  y  Testimonio original,30:16.4,35
+22778,10344843,C1,N,5,661326,Expediente  y  Testimonio original,48:36.5,24
+22779,10344934,C1,N,5,865843,Expediente  y  Testimonio original,48:36.6,58
+22780,10351389,C1,N,5,671814,Expediente  y  Testimonio original,48:37.6,29
+22781,90038001,C1,N,5,821939,Expediente  y  Testimonio original,02:15.3,33
+22782,10347716,C1,N,5,689657,Expediente  y  Testimonio original,30:15.1,78
+22783,10351078,C1,N,5,878823,Expediente  y  Testimonio original,48:37.6,51
+22784,10351418,C1,N,5,514222,Expediente  y  Testimonio original,30:13.8,27
+22785,10352486,C1,N,5,103969,Expediente  y  Testimonio original,48:37.8,35
+22786,10352773,C1,N,5,839834,Expediente  y  Testimonio original,28:32.5,92
+22815,30032491,C1,N,5,428512,Expediente con bolsa de cancelado entregado enviado a pergaminos,47:52.6,21
+22816,30030558,C1,N,5,774019,Expediente cancelado con bolsa de testimonio entregado al cliente,05:20.0,24
+22818,50148479,C1,N,5,1045780,Crédito cancelado,43:47.7,25
+22843,50153814,C1,N,5,625625,Crédito cancelado,04:21.8,81
+22844,30032192,C1,N,5,686220,EXPEDIENTE CON BOLSA CANCELADA ENTREGADA PARA ENVIAR A PERGAMINOS,35:10.4,47
+22845,30032661,C1,N,5,1153025,Crédito cancelado,47:59.4,78
+22846,50153450,C1,N,5,152733,Expediente cancelado con bolsa de testimonio entregado al cliente,44:51.3,21
+22847,50153486,C1,N,5,1122648,Crédito cancelado,34:23.4,59
+22848,50153656,C1,N,5,886634,Expedientes con bolsa concelado-entregado,50:42.4,96
+22850,10274907,C1,N,5,699925,Crédito cancelado,23:20.6,21
+22852,90033910,C1,N,5,859209,Expediente  y  Testimonio original,39:45.3,78
+23031,50153852,C1,N,5,1152012,Expediente cancelado con bolsa de testimonio entregado al cliente,35:20.6,96
+23047,10353571,C1,N,5,142618,Expediente  y  Testimonio original,33:44.5,19
+23048,10353595,C1,N,5,648712,Expediente  y  Testimonio original,48:38.0,32
+23049,10353806,C1,N,5,148289,Expediente  y  Testimonio original,33:44.6,93
+23050,10353002,C1,N,5,459935,Crédito cancelado,09:34.5,27
+23051,10353014,C1,N,5,644167,Expediente  y  Testimonio original,48:37.9,19
+23213,10223453,C1,N,5,731724,Crédito cancelado,26:12.9,57
+23215,90038453,C1,N,5,108581,traslado por actualizacion de cambios en seguridad,56:32.3,37
+23216,10354056,C1,N,5,832662,Expediente  y  Testimonio original,33:44.6,59
+23217,10354109,C1,N,5,1184426,Crédito cancelado,09:34.6,58
+23218,10354018,C1,N,5,366323,Expediente  y  Testimonio original,48:38.0,33
+23219,10354381,C1,N,5,104989,Expediente  y  Testimonio original,33:44.7,97
+23220,10354355,C1,N,5,789255,Expediente  y  Testimonio original,48:38.1,63
+23221,10354044,C1,N,5,141943,Expediente  y  Testimonio original,48:38.1,40
+23222,10354032,C1,N,5,139526,Expediente  y  Testimonio original,48:38.1,93
+23224,10354408,C1,N,5,744422,Expediente  y  Testimonio original,48:38.1,83
+23226,20045856,C1,N,5,114020,Expediente cancelado con bolsa de testimonio entregado al cliente,57:27.5,60
+23364,90038489,C1,N,5,700488,Expediente  y  Testimonio original,02:15.1,40
+23365,10354393,C1,N,5,744208,Expediente  y  Testimonio original,48:38.1,92
+23366,10354422,C1,N,5,455655,Crédito cancelado,09:34.6,77
+23367,10354484,C1,N,5,744265,Crédito cancelado,43:01.3,67
+23368,90036895,C1,N,5,408579,traslado por actualizacion de cambios en seguridad,56:32.4,59
+23369,90038491,C1,N,5,1679014,Expediente  y  Testimonio original,02:15.1,99
+23370,90038427,C1,N,5,619001,Expediente  y  Testimonio original,02:15.2,63
+23371,90038300,C1,N,5,1028485,Expediente  y  Testimonio original,12:41.6,37
+23372,10354692,C1,N,5,746354,Expediente  y  Testimonio original,33:44.7,65
+23373,10354094,C1,N,5,1163903,Expediente cancelado con bolsa de testimonio entregado al cliente,00:22.6,87
+23374,10354824,C1,N,5,654241,Expediente cancelado con bolsa de testimonio entregado al cliente,00:22.7,24
+23375,10354604,C1,N,5,149722,Expediente  y  Testimonio original,33:44.7,18
+23376,10354812,C1,N,5,655297,Expediente  y  Testimonio original,48:38.1,71
+23377,10354305,C1,N,5,744454,Expediente  y  Testimonio original,09:16.5,33
+23378,10354551,C1,N,5,135828,Crédito cancelado,32:54.5,21
+23379,20071518,C1,N,5,902558,Crédito cancelado,56:11.8,96
+23380,20071398,C1,N,5,1014260,Crédito cancelado,56:11.8,36
+23384,90030372,C1,N,5,141258,traslado por actualizacion de cambios en seguridad,56:32.4,98
+23388,1179448,U,D,378,1179448,Devolución nueva estructura,52:07.1,71
+23390,50153890,C1,N,5,882163,Crédito cancelado,19:17.6,23
+23391,50154129,C1,N,5,1136690,Expediente con bolsa de cancelado entregado para enviar a pergaminos,42:25.3,31
+23393,CL002582,C6,N,5,145840,Crédito cancelado,18:51.4,70
+23394,10271113,C1,N,5,639131,Expediente  y  Testimonio original,19:58.5,93
+23407,662880,U,N,21,662880,Creacion de etiqueta para expediente,25:56.1,40
+23409,663340,U,D,378,663340,Para resguardo,58:27.1,26
+23410,664342,U,D,378,664342,Para resguardo,04:59.9,67
+23668,740624,U,D,378,740624,Devolución nueva estructura,52:58.9,79
+23669,1163518,U,D,378,1163518,Devolución nueva estructura,52:06.7,68
+23671,10354264,C1,N,5,367660,Crédito cancelado,08:54.9,74
+23672,10354915,C1,N,5,740624,Expediente con bolsa cancelado-entregado,47:34.5,45
+23673,10354939,C1,N,5,102735,Crédito cancelado,09:34.7,28
+23674,10354941,C1,N,5,671630,Expediente  y  Testimonio original,09:16.6,62
+23684,10355347,C1,N,5,264073,Expediente  y  Testimonio original,33:44.8,96
+23685,10355359,C1,N,5,849459,Expediente  y  Testimonio original,33:44.8,97
+23687,20064761,C1,N,5,137234,Crédito cancelado,25:45.4,21
+23688,20071544,C1,N,5,102735,Crédito cancelado,39:40.0,30
+23689,90038520,C1,N,5,823880,traslado por actualizacion de cambios en seguridad,56:32.5,79
+23690,90038532,C1,N,5,118335,Crédito cancelado,30:13.6,18
+23691,90038556,C1,N,5,103799,Expediente  y  Testimonio original,33:36.4,49
+23692,90038570,C1,N,5,904895,traslado por actualizacion de cambios en seguridad,56:32.5,20
+23693,90038611,C1,N,5,383780,traslado por actualizacion de cambios en seguridad,56:32.5,19
+23694,90038623,C1,N,5,165924,Expediente  y  Testimonio original,02:15.1,95
+23695,90038702,C1,N,5,515953,Expediente  y  Testimonio original,02:15.1,79
+23817,90029878,C1,N,5,117230,traslado por actualizacion de cambios en seguridad,56:32.5,41
+23818,90038738,C1,N,5,1105369,traslado por actualizacion de cambios en seguridad,56:32.5,75
+23819,90038439,C1,N,5,744582,Expediente  y  Testimonio original,12:41.6,84
+23820,90038697,C1,N,5,289806,Expediente  y  Testimonio original,33:36.4,77
+23821,90038661,C1,N,5,1067783,Para enviar a pergaminos.,41:52.9,65
+23822,10355476,C1,N,5,1131093,Expediente  y  Testimonio original,33:44.8,46
+23823,10355220,C1,N,5,463290,Expediente  y  Testimonio original,09:16.7,82
+23824,10355517,C1,N,5,823853,Crédito cancelado,09:34.8,19
+23837,10355490,C1,N,5,1186334,Crédito cancelado,09:34.8,27
+23893,90038790,C1,N,5,600427,Expediente  y  Testimonio original,02:15.0,23
+24077,50073708,C4,N,22,270703,Creacion de etiqueta para expediente,29:11.8,34
+24078,10251357,C1,N,5,876625,Expediente  y  Testimonio original,14:37.0,89
+24079,20050617,C1,N,5,113192,Crédito cancelado,01:04.3,43
+24080,20064632,C1,N,5,888490,Expediente  y  Testimonio original,22:19.6,20
+24081,20067983,C1,N,5,299549,Expediente con bolsa de cancelado entregado enviado a pergaminos,47:52.3,74
+24083,20069357,C1,N,5,731638,Crédito cancelado,58:20.3,38
+24084,10251163,C1,N,5,694633,Crédito cancelado,32:27.8,28
+24085,20004068,C3,N,5,100070,Crédito cancelado,52:58.9,95
+24086,20065674,C1,N,5,968169,Expediente cancelado con bolsa de testimonio entregado al cliente,15:45.7,29
+24087,50144605,C1,N,5,1039361,traslado por actualizacion de cambios en seguridad,56:32.7,30
+24238,10255391,C1,N,5,842334,traslado por actualizacion de cambios en seguridad,56:32.8,62
+24240,20050576,C1,N,5,701041,Enviado a pergaminos,24:16.5,50
+24241,20051283,C1,N,5,604687,Expediente  y  Testimonio original,07:56.4,29
+24243,20065193,C1,N,5,898385,Crédito cancelado,47:13.0,97
+24244,20065466,C1,N,5,1066554,Expediente cancelado con bolsa de testimonio entregado al cliente,15:45.6,69
+24245,20067189,C1,D,378,337540,Para resguardo,45:09.2,46
+24247,20068389,C1,N,5,106853,Crédito cancelado,48:44.3,75
+24263,10356547,C1,N,5,751098,Expediente  y  Testimonio original,48:38.3,48
+24264,10356676,C1,N,5,132962,Expediente  y  Testimonio original,48:38.3,73
+24265,10356690,C1,N,5,743926,Crédito cancelado,32:54.2,54
+24266,10356858,C1,N,5,148640,Expediente  y  Testimonio original,09:19.7,54
+24274,10357113,C1,N,5,151663,Expediente  y  Testimonio original,48:38.3,45
+24277,20071635,C1,N,5,121746,Expediente cancelado con bolsa de testimonio entregado al cliente,57:27.8,91
+24278,90036039,C1,N,5,106133,traslado por actualizacion de cambios en seguridad,56:32.8,25
+24279,90038946,C1,N,5,137611,Expediente  y  Testimonio original,12:41.6,23
+24280,90038960,C1,N,5,763564,Expediente  y  Testimonio original,33:36.4,29
+24281,90038996,C1,N,5,1164099,Expediente con bolsa de cancelado entregado para enviar a pergaminos,42:48.8,32
+24282,90039005,C1,N,5,1005682,traslado por actualizacion de cambios en seguridad,56:32.8,88
+24426,233193,U,N,22,233193,Creacion de etiqueta para expediente,50:23.8,84
+24427,233793,U,D,378,233793,Expediente en Leitz,20:08.3,55
+24428,20069539,C1,N,5,128573,Crédito cancelado,47:09.3,50
+24504,20003973,C3,N,5,144248,Crédito cancelado,52:58.8,50
+24505,10260126,C1,N,5,833893,traslado por actualizacion de cambios en seguridad,56:32.8,20
+24507,10357101,C1,N,5,132102,Expediente  y  Testimonio original,09:19.7,58
+24509,10357321,C1,N,5,815651,Crédito cancelado,32:54.4,24
+24510,10357345,C1,N,5,700872,Crédito cancelado,14:04.2,28
+24511,10357436,C1,N,5,106416,Expediente  y  Testimonio original,48:38.4,71
+24621,20063444,C4,N,5,940342,Crédito cancelado,41:57.9,79
+24622,10280425,C4,N,5,941556,Expediente  y  Testimonio original,51:52.4,81
+24624,10194365,C4,N,5,827941,Expediente  y  Testimonio original,37:27.7,59
+24625,20038413,C4,D,378,827961,Para resguardo,37:30.4,56
+24626,40005464,C4,N,5,611634,expediente con bolsa de testimonio cancelado entregado,35:41.8,79
+24627,20038437,C4,N,5,827888,expediente con bolsa de testimonio cancelado entregado,35:41.7,59
+25749,10301047,C4,N,5,945909,expediente con bolsa cancelada entregada para enviar a pergaminos,15:29.6,84
+25777,10217492,C1,N,5,481562,Expediente  y  Testimonio original,30:18.9,82
+25779,LC000227,C6,N,5,740254,Expediente  y  Testimonio original,51:55.6,97
+25805,90039263,C1,N,5,141674,Expediente  y  Testimonio original,02:14.7,64
+25834,20071934,C1,N,5,234762,Crédito cancelado,01:44.9,81
+25835,90039249,C1,N,5,111920,traslado por actualizacion de cambios en seguridad,56:32.8,82
+25836,90039287,C1,N,5,297848,traslado por actualizacion de cambios en seguridad,56:32.8,71
+25837,90039342,C1,N,5,399161,Expediente  y  Testimonio original,12:41.8,70
+25838,90039366,C1,N,5,724079,Expediente  y  Testimonio original,02:14.7,53
+25839,90039378,C1,N,5,106385,traslado por actualizacion de cambios en seguridad,56:32.8,29
+25840,90039469,C1,N,5,126885,Expediente  y  Testimonio original,02:14.8,79
+25841,90039471,C1,N,5,108658,Expediente  y  Testimonio original,12:41.8,23
+25842,90039483,C1,N,5,1063253,traslado por actualizacion de cambios en seguridad,56:32.9,66
+25843,90039495,C1,N,5,1092304,Expediente  y  Testimonio original,39:45.4,79
+25844,90039500,C1,N,5,126885,Expediente  y  Testimonio original,02:14.8,70
+25845,90039512,C1,N,5,866462,traslado por actualizacion de cambios en seguridad,56:32.9,30
+25846,90039548,C1,N,5,241266,Crédito cancelado con bolsa de  testimonio entregado al cliente,58:17.9,19
+25973,10358741,C1,N,5,717731,Crédito cancelado,27:15.7,89
+25974,10358832,C1,N,5,1153348,Crédito cancelado,27:15.7,82
+25975,10358870,C1,N,5,124607,Expediente  y  Testimonio original,01:04.8,94
+25976,10358894,C1,N,5,145495,Expediente  y  Testimonio original,48:38.5,54
+25987,10359214,C1,N,5,811287,Expediente  y  Testimonio original,33:45.3,26
+26005,CL002643,C6,N,5,804603,Crédito cancelado,18:51.4,51
+26046,645430,U,D,378,645430,Devolución nueva estructura,33:18.1,79
+26047,10359977,C1,N,5,884307,Crédito cancelado,27:15.9,18
+26048,10360005,C1,N,5,744389,Expediente  y  Testimonio original,48:38.7,72
+26049,10360093,C1,N,5,782672,Expediente  y  Testimonio original,33:45.5,59
+26050,10360108,C1,N,5,101490,Expediente  y  Testimonio original,48:38.7,24
+26051,10360110,C1,N,5,822718,Expediente  y  Testimonio original,48:38.7,55
+26052,20069333,C1,N,5,951145,Crédito cancelado,52:09.0,82
+26055,20071984,C1,N,5,645430,Crédito cancelado,01:45.0,79
+26095,50154806,C1,N,5,1018504,Crédito cancelado,43:47.1,26
+26096,50153955,C1,N,5,1141326,Expediente  y  Testimonio original,23:18.8,26
+26100,10358703,C1,N,5,778611,Expediente  y  Testimonio original,33:45.2,42
+26101,10359018,C1,N,5,115981,Expediente  y  Testimonio original,48:38.6,41
+26102,10359989,C1,N,5,1100305,Crédito cancelado,27:15.9,99
+26103,10359991,C1,N,5,109532,Expediente  y  Testimonio original,48:38.6,41
+26104,10360251,C1,N,5,731869,Expediente  y  Testimonio original,48:38.7,97
+26105,10360469,C1,N,5,847255,Crédito cancelado,27:15.9,97
+26106,10360548,C1,N,5,142556,Expediente  y  Testimonio original,48:38.7,81
+26107,10360677,C1,N,5,119614,Expediente  y  Testimonio original,09:19.9,47
+26108,10360689,C1,N,5,142850,Expediente  y  Testimonio original,33:45.6,23
+26109,10360691,C1,N,5,112334,Expediente  y  Testimonio original,48:38.7,35
+26110,10360706,C1,N,5,892767,Expediente  y  Testimonio original,48:38.7,61
+26112,10360823,C1,N,5,1200158,Crédito cancelado,27:15.9,44
+26113,10360835,C1,N,5,744513,Expediente  y  Testimonio original,33:45.6,37
+26114,10360952,C1,N,5,145727,Expediente  y  Testimonio original,48:38.7,33
+26151,10361554,C1,N,5,353982,Expediente  y  Testimonio original,48:38.9,72
+26177,CL002675,C6,N,5,141195,Expediente  y  Testimonio original,39:53.2,85
+26182,PL003886,C6,N,5,195928,Expediente  y  Testimonio original,51:51.5,40
+26185,10302699,C1,N,5,275827,Expediente  y  Testimonio original,38:06.0,84
+26187,10353997,C1,N,5,101294,Expediente  y  Testimonio original,09:16.5,99
+26188,10355880,C1,N,5,832611,Crédito cancelado,32:54.5,49
+26262,10361322,C1,N,5,156411,Crédito cancelado,29:36.2,100
+26288,CL002639,C6,N,5,679668,Expediente  y  Testimonio original,39:52.6,54
+26298,PL003898,C6,N,5,720508,Expediente  y  Testimonio original,51:51.5,41
+26301,10362493,C1,N,5,1189627,Expediente cancelado con bolsa de testimonio entregado al cliente,00:22.8,78
+26302,10362728,C1,N,5,1195887,Expediente  y  Testimonio original,53:15.5,59
+26346,10364257,C1,N,5,839990,Expediente  y  Testimonio original,59:13.4,45
+26347,10364269,C1,N,5,843554,Expediente  y  Testimonio original,59:13.5,53
+26934,50155018,C1,N,5,137984,Crédito cancelado,34:26.5,80
+26935,50155056,C1,N,5,435766,Expediente  y  Testimonio original,47:37.5,44
+26936,50155135,C1,N,5,1200645,Crédito cancelado,43:47.2,55
+26937,50155159,C1,N,5,1187177,Crédito cancelado,10:31.9,18
+22,50088636,C4,N,5,813952,Expediente  y  Testimonio original,00:15.3,34
+23,30026210,C5,N,5,1003285,Crédito cancelado,26:51.6,94
+24,10264794,C5,N,5,992565,Expediente  y  Testimonio original,14:14.1,23
+25,50080206,C4,N,5,808297,expediente con bolsa de testimonio cancelado entregado al cliente,32:09.9,31
