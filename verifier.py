@@ -1,17 +1,16 @@
-import duckdb
 import yaml
 from datetime import datetime
 import logging
 import sys
-# import pyodbc
+import pyodbc
+import os
 
-# args = {'DSN': 'LZConnector'}
+CON_SERVER = os.environ['server']
+CON_DATABASE = os.environ['database']
+CON_USERNAME = os.environ['username']
+CON_PASS = os.environ['password']
 
-# constring = '''DSN={0}'''.format(args['DSN'])
-
-# cn_mirror = pyodbc.connect(constring, autocommit = True)
-
-# df = pd.read_sql(query,cn_mirror)
+arg = 'DRIVER={SQL Server};SERVER='+CON_SERVER+';DATABASE='+CON_DATABASE+';uid='+CON_USERNAME+';pwd='+CON_PASS+';'
 
 #Log file basic configuration
 logging.basicConfig(filename="ContractFiles.log",
@@ -22,7 +21,7 @@ logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
 
 # Stablishing connection with DB (using pyodbc)
-conn = duckdb.connect('file.db')
+conn = pyodbc.connect(arg)
 
 # Contract enforcer
 def enforcerSQL(yaml):
@@ -45,7 +44,7 @@ def enforcerSQL(yaml):
         # Validator for categorical columns
         if yaml['columns'][i]['isCategorical']:
             try:
-                qry = duckdb.query(f'SELECT DISTINCT {columna} FROM {yaml["tableName"]}').fetchall()
+                qry = pyodbc.query(f'SELECT DISTINCT {columna} FROM {yaml["tableName"]}').fetchall()
                 for i in range(len(qry)):
                     nva.append(qry[i][0])
                 if len(list(set(nva).difference(valores))) == 0:
@@ -61,7 +60,7 @@ def enforcerSQL(yaml):
         # Validator for non categorical columns
         else:
             try:
-                qry = duckdb.query(f'''SELECT {columna} FROM {yaml["tableName"]}
+                qry = pyodbc.query(f'''SELECT {columna} FROM {yaml["tableName"]}
                                     WHERE {columna} < {valores[0]} OR {columna} > {valores[1]}''').fetchall()
                 if len(qry) != 0:
                     logger.warning(f"Col %s wrong vals: {qry}", columna)
@@ -75,7 +74,7 @@ def enforcerSQL(yaml):
 
         # Checking for nulls
         if exists:
-            nulls = duckdb.query(f'''select {columna} from {yaml["tableName"]} 
+            nulls = pyodbc.query(f'''select {columna} from {yaml["tableName"]} 
                         WHERE {columna} IS NULL''').fetchall()
             if len(nulls) != 0:
                 logger.warning("Column %s have nulls", columna)
