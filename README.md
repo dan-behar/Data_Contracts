@@ -7,4 +7,4 @@ Implementation of a proof of concept for a Data Contract implementation
 * file.db: The temporary Data Base on DuckDB in which I worked previous Deployment
 * mejorado.csv: The file with the data to analyze. This is correct data
 * tester.csv: The file with the data to analyze. This is data with problems
-* verifier.py: The python file to run the contract validator
+* verifier.py: The Data Contract verifier from the PoC

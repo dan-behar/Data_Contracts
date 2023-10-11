@@ -1,8 +1,12 @@
 import yaml
 from datetime import datetime
 import sys
+import logging
 import pyodbc
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 CON_SERVER = os.environ['server']
 CON_DATABASE = os.environ['database']
@@ -10,6 +14,14 @@ CON_USERNAME = os.environ['username']
 CON_PASS = os.environ['password']
 
 arg = 'DRIVER={SQL Server};SERVER='+CON_SERVER+';DATABASE='+CON_DATABASE+';uid='+CON_USERNAME+';pwd='+CON_PASS+';'
+
+#Log file basic configuration
+logging.basicConfig(filename="ContractFiles.log",
+                    format='%(asctime)s %(message)s',
+                    filemode='w')
+
+logger = logging.getLogger()
+logger.setLevel(logging.DEBUG)
 
 # Stablishing connection with DB (using pyodbc)
 conn = pyodbc.connect(arg)
@@ -39,10 +51,12 @@ def enforcerSQL(yaml):
                 for i in range(len(qry)):
                     nva.append(qry[i][0])
                 if len(list(set(nva).difference(valores))) == 0:
-                    pass
+                    logger.info("Column %s correct", columna)
                 else:
+                    logger.warning(f"Col %s unknown values: {list(set(nva).difference(valores))}", columna)
                     categ_n = categ_n + f"{columna}, "
             except:
+                logger.error("Column %s doesnt exist", columna)
                 nonexist = nonexist + f"{columna}, "
                 exists = False
         
@@ -52,10 +66,12 @@ def enforcerSQL(yaml):
                 qry = pyodbc.query(f'''SELECT {columna} FROM {yaml["tableName"]}
                                     WHERE {columna} < {valores[0]} OR {columna} > {valores[1]}''').fetchall()
                 if len(qry) != 0:
+                    logger.warning(f"Col %s wrong vals: {qry}", columna)
                     numer_n = numer_n + f"{columna}, "
                 else:
-                    pass
+                    logger.info("Column %s correct", columna)
             except:
+                logger.error("Column %s doesnt exist", columna)
                 nonexist = nonexist + f"{columna}, "
                 exists = False
 
@@ -64,12 +80,14 @@ def enforcerSQL(yaml):
             nulls = pyodbc.query(f'''select {columna} from {yaml["tableName"]} 
                         WHERE {columna} IS NULL''').fetchall()
             if len(nulls) != 0:
+                logger.warning("Column %s have nulls", columna)
                 nulls_n = nulls_n + f"{columna}, "
             else:
-                pass
+                logger.info("No Null values in %s", columna)
         else:
             exists = True
     
+    logger.info("---------------------------------------------------------")
 
     if len(categ_n) == 0:
         categ_n = "All good"
@@ -88,6 +106,8 @@ try:
         conf = yaml.safe_load(f.read())
 except:
     raise TypeError("No contract received")
+
+logger.info("Contract for %s ", conf["tableName"])
 
 # Executing the contract and saving it in the result table
 lista = enforcerSQL(conf)
