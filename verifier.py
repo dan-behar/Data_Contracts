@@ -31,6 +31,7 @@ def enforcerSQL(yaml):
 
     # Defining returns
     now = datetime.now()
+    formatted_date = now.strftime('%Y-%m-%d %H:%M:%S')
     categ_n = ""
     numer_n = ""
     nulls_n = ""
@@ -98,7 +99,7 @@ def enforcerSQL(yaml):
     if len(nonexist) == 0:
         nonexist = "All good"
 
-    return now, yaml["tableName"], categ_n, numer_n, nulls_n, nonexist
+    return formatted_date, yaml["tableName"], categ_n, numer_n, nulls_n, nonexist
 
 # Getting the details of the contract in the YAML
 try:
