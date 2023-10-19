@@ -28,6 +28,23 @@ logger.setLevel(logging.DEBUG)
 
 # Contract enforcer
 def enforcerSQL(yaml):
+    """ 
+    Receives a YAML file with the table and columns to verify in the contract
+    and returns what it finded on each column. The general findings are stored in a
+    table called RESULTADOS (i.e. if a column has atypical values o doesnt exist)
+    and the specific problems in a .log file (i.e. the atypical values per column)
+        
+    Args:
+        yaml (yaml): The yaml file with the contract
+
+    Returns:
+        formatted_date (datetime): the date and the time of the verification (in SQL format)
+        yaml["tableName"] (str): the name of the table analyzed
+        categ_n (str): a string with the categorical columns that have problems
+        numer_n (str): a string with the numerical columns that have problems
+        nulls_n (str): the columns with nulls 
+        nonexist (str): the columns that were not found in the table
+    """
 
     # Defining returns
     now = datetime.now()
@@ -78,7 +95,7 @@ def enforcerSQL(yaml):
                 exists = False
 
         # Checking for nulls
-        if exists:
+        if exists and yaml['columns'][0]['isNullable'] == False:
             nulls = cursor.execute(f'''select {columna} from {yaml["tableName"]} 
                         WHERE {columna} IS NULL''').fetchall()
             if len(nulls) != 0:
