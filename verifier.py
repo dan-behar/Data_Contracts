@@ -4,6 +4,8 @@ import sys
 import logging
 import pyodbc
 import os
+from dotenv import load_dotenv
+load_dotenv()
 
 # Stablishing connection with DB
 CON_SERVER = os.environ['server']
