@@ -2,7 +2,6 @@ import yaml
 from datetime import datetime
 import sys
 import logging
-# import duckdb
 import pyodbc
 import os
 from dotenv import load_dotenv
