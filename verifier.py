@@ -2,12 +2,13 @@ import yaml
 from datetime import datetime
 import sys
 import logging
+# import duckdb
 import pyodbc
 import os
 from dotenv import load_dotenv
 load_dotenv()
 
-# Stablishing connection with DB
+# Stablishing connection with DB using .env file
 CON_SERVER = os.environ['server']
 CON_DATABASE = os.environ['database']
 CON_USERNAME = os.environ['username']
@@ -18,11 +19,8 @@ arg = 'DRIVER={SQL Server};SERVER='+CON_SERVER+';DATABASE='+CON_DATABASE+';uid='
 conn = pyodbc.connect(arg)
 cursor = conn.cursor()
 
-
 #Log file basic configuration
-logging.basicConfig(filename="ContractFiles.log",
-                    format='%(asctime)s %(message)s',
-                    filemode='w')
+logging.basicConfig(level = logging.INFO, filename = 'ContractFiles.log')
 
 logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)

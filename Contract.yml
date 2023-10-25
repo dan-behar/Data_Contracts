@@ -1,6 +1,6 @@
 # Data Contract ID
 datasetDomain: LZ
-tableName: mejorado.csv
+tableName: tester.csv
 userConsumptionMode: Analytical
 version: 0.3.0
 status: current
