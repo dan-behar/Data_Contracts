@@ -122,7 +122,7 @@ ep_operacion,ep_expediente,ep_tipo_exp,ep_estado,ep_ubicacion,ep_cliente,ep_desc
 1713,10041854,C1,D,1,120217,Creacion de etiqueta para expediente,28:45.4,20
 1714,10041880,C1,N,22,120217,Creacion de etiqueta para expediente,28:46.3,20
 1715,10321126,C1,N,5,744224,Expediente  y  Testimonio original,35:24.1,28
-1716,10321504,C1,N,5,116229,Expediente  y  Testimonio original,35:24.3,85
+1716,10321504,85,N,5,116229,Expediente  y  Testimonio original,35:24.3,85
 1717,10320512,C1,N,5,1017704,Expediente  y  Testimonio original,10:58.5,52
 1763,10238317,C1,N,5,237705,Crédito cancelado,32:27.7,59
 2939,10319202,C1,N,5,824386,Expediente  y  Testimonio original,35:23.6,56
@@ -271,7 +271,7 @@ ep_operacion,ep_expediente,ep_tipo_exp,ep_estado,ep_ubicacion,ep_cliente,ep_desc
 5530,628176,U,D,378,628176,Devolución nueva estructura,15:01.6,94
 5534,628895,U,D,378,628895,Devolución nueva estructura,17:07.1,100
 5558,633691,U,D,378,633691,Devolución nueva estructura,17:07.1,80
-5559,634217,U,D,378,634217,Resguardo nueva estructura,48:58.9,77
+5559,634217,U,D,rh,634217,Resguardo nueva estructura,48:58.9,77
 5586,639567,U,D,378,639567,Devolución nueva estructura,17:06.8,78
 5591,640357,U,D,378,640357,Devolución nueva estructura,18:21.8,74
 5611,647610,U,D,378,647610,Para resguardo,36:18.9,22
@@ -330,7 +330,7 @@ ep_operacion,ep_expediente,ep_tipo_exp,ep_estado,ep_ubicacion,ep_cliente,ep_desc
 7730,288072,U,D,378,288072,Devolución nueva estructura,25:57.5,97
 7736,864206,U,D,378,864206,Devolución nueva estructura,45:29.7,80
 7908,50129863,C1,N,5,895103,Crédito cancelado,10:39.7,41
-7935,701967,U,D,378,701967,Devolución nueva estructura,05:42.3,33
+7935,701967,U,D,h,701967,Devolución nueva estructura,05:42.3,33
 7937,10063395,C1,N,21,301352,Creacion de etiqueta para expediente,20:14.0,99
 7968,264821,U,D,378,264821,Devolución en folder,02:44.9,52
 8076,10258240,C1,N,5,108890,traslado por actualizacion de cambios en seguridad,56:14.6,83
@@ -401,7 +401,7 @@ ep_operacion,ep_expediente,ep_tipo_exp,ep_estado,ep_ubicacion,ep_cliente,ep_desc
 9167,10188689,C1,N,5,296130,traslado por actualizacion de cambios en seguridad,56:15.4,48
 9169,10302106,C1,N,5,1045738,Crédito cancelado,27:17.3,26
 9170,10249134,C1,N,5,808798,Expediente  y  Testimonio original,58:02.2,21
-9171,10256163,C1,N,5,107109,traslado por actualizacion de cambios en seguridad,56:15.4,81
+9171,10256163,15434,N,5,107109,traslado por actualizacion de cambios en seguridad,56:15.4,81
 9172,10302883,C1,N,5,802139,Expediente  y  Testimonio original,40:45.7,83
 9173,20005505,C3,N,5,142159,Crédito cancelado,12:19.3,28
 9174,10020317,C1,N,5,107816,traslado por actualizacion de cambios en seguridad,56:15.5,34
@@ -423,7 +423,7 @@ ep_operacion,ep_expediente,ep_tipo_exp,ep_estado,ep_ubicacion,ep_cliente,ep_desc
 9234,682669,U,D,378,682669,Devolución nueva estructura,55:26.9,100
 9236,682671,U,D,378,682671,Devolución nueva estructura,56:38.2,34
 9240,683141,U,D,378,683141,Devolución nueva estructura,02:03.9,33
-9243,683453,U,D,378,683453,Devolución nueva estructura,22:41.5,58
+9243,683453,3,D,378,683453,Devolución nueva estructura,22:41.5,58
 9244,683458,U,D,378,683458,Resguardo nueva estructura,47:48.7,52
 9251,684751,U,D,378,684751,Devolución nueva estructura,22:41.5,26
 9252,684806,U,N,21,684806,Creacion de etiqueta para expediente,53:10.8,52

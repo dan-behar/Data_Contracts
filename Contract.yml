@@ -1,8 +1,9 @@
 # Data Contract ID
-datasetDomain: LZ
+contractId: 1234567890
+datasetDomain: R3
 tableName: tester.csv
 userConsumptionMode: Analytical
-version: 0.3.0
+version: 0.4.0
 status: current
 
 # Extra information
@@ -33,7 +34,6 @@ columns:
     - column: ep_tipo_exp
       isPrimary: false
       logicalType: str
-      physicalType: str
       isNullable: false
       isCategorical: true
       values: 
@@ -48,7 +48,6 @@ columns:
     - column: ep_estado
       isPrimary: false
       logicalType: str
-      physicalType: str
       isNullable: false
       isCategorical: true
       values:
@@ -56,8 +55,7 @@ columns:
         - 'N'
     - column: ep_ubicacion
       isPrimary: false
-      logicalType: int64
-      physicalType: int
+      logicalType: int
       isNullable: false
       isCategorical: true
       values: 
@@ -70,8 +68,7 @@ columns:
            - 378
     - column: ep_edad
       isPrimary: false
-      logicalType: int64
-      physicalType: int
+      logicalType: int
       isNullable: false
       isCategorical: false
       values:
