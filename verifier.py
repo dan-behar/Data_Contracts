@@ -77,7 +77,12 @@ def tipo(arr, typ):
     elif typ == 'float':
         return all(map(lambda x: isinstance(x, float), arr))
     elif typ == 'bool':
-        return all(map(lambda x: isinstance(x, bool), arr))
+        indexer = arr.str.isnumeric()
+        res = [i for i, val in enumerate(indexer) if val]
+        if len(res) == 0:
+            return True
+        else:
+            return False
 
 # Contract enforcer
 def verificador(yaml):
