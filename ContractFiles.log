@@ -1,0 +1,22 @@
+2023-11-03 10:00:16,377 Contract ID: 1234567890
+2023-11-03 10:00:16,444 Column ep_tipo_exp correct
+2023-11-03 10:00:16,498 No Null values in ep_tipo_exp
+2023-11-03 10:00:16,513 Column ep_estado correct
+2023-11-03 10:00:16,541 No Null values in ep_estado
+2023-11-03 10:00:16,561 Column ep_ubicacion correct
+2023-11-03 10:00:16,582 No Null values in ep_ubicacion
+2023-11-03 10:00:16,629 Column ep_edad correct
+2023-11-03 10:00:16,640 No Null values in ep_edad
+2023-11-03 10:00:16,640 ---------------------------------------------------------
+2023-11-03 10:00:38,160 Contract ID: 1234567890
+2023-11-03 10:00:38,186 Col ep_tipo_exp values distinct type from fstr
+2023-11-03 10:00:38,202 Col ep_tipo_exp unknown values: ['3', 'C10', '15434', 'sf', 'er', '85']
+2023-11-03 10:00:38,227 No Null values in ep_tipo_exp
+2023-11-03 10:00:38,249 Col ep_estado unknown values: [None, 'T']
+2023-11-03 10:00:38,280 Column ep_estado have nulls
+2023-11-03 10:00:38,304 Col ep_ubicacion values distinct type from fint
+2023-11-03 10:00:38,304 Col ep_ubicacion unknown values: ['rh', '57', '5', '1000', 'h', '367', None, '1', '22', '377', '21', '378']
+2023-11-03 10:00:38,335 Column ep_ubicacion have nulls
+2023-11-03 10:00:38,376 Col ep_edad wrong vals: [(17,), (5,), (101,)]
+2023-11-03 10:00:38,413 No Null values in ep_edad
+2023-11-03 10:00:38,413 ---------------------------------------------------------
